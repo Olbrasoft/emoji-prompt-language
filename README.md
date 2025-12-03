@@ -7,6 +7,32 @@ Cílem tohoto projektu je demonstrovat, jak lze pomocí strukturovaných emoji v
 - Zvýšit jednoznačnost a rychlost komunikace.
 - Vytvořit intuitivní vizuální syntaxi pro složitější workflowy.
 
+## Klíčový Případ Užití: Úspora Kontextového Okna pro AI Agenty
+
+Moderní jazykové modely a AI agenti mají omezené **kontextové okno** (context window) – maximální množství textu, které dokáží zpracovat najednou. Velkou část tohoto okna často zabírají systémové instrukce a prompty, které agentovi říkají, jak se má chovat.
+
+**Emoji Prompt Language (EPL) řeší tento problém.**
+
+Tím, že v instrukčních `.md` souborech nahradíme běžná slova (především slovesa a koncepty jako "start", "hledat", "úspěch", "chyba") za jednopísmenové emoji, můžeme **drasticky zmenšit velikost těchto souborů**.
+
+**Výhody:**
+- **Více prostoru pro data:** Agentovi zbude více kapacity v kontextovém okně pro samotný úkol, historii konverzace a další dynamická data.
+- **Rychlejší zpracování:** Méně textu na vstupu znamená rychlejší parsování a nižší latenci.
+- **Nižší náklady:** U placených API se cena často odvíjí od počtu tokenů – EPL ji pomáhá snižovat.
+
+V adresáři `/examples` najdete konkrétní ukázky porovnávající velikost instrukcí v běžném jazyce a v hybridním EPL formátu.
+
+## Výsledky: Porovnání Velikosti
+
+Následující tabulka ukazuje úsporu velikosti souboru při použití hybridního EPL formátu v porovnání s běžným textem v adresáři `/examples`.
+
+| Příklad | Původní velikost (plain) | Velikost s EPL | Úspora |
+| :--- | :--- | :--- | :--- |
+| `agent_codegen` | 776 bajtů | 748 bajtů | **~3.6%** |
+| `agent_system_prompt`| 770 bajtů | 750 bajtů | **~2.6%** |
+
+*Poznámka: Ačkoliv se úspora u těchto krátkých příkladů může zdát malá, v reálných, komplexních systémových promptech s desítkami či stovkami instrukcí bude procentuální úspora mnohem výraznější a může uvolnit cenné místo v kontextovém okně.*
+
 ## Struktura Projektu
 
 ```
