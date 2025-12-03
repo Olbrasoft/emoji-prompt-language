@@ -1,0 +1,857 @@
+[
+  {
+    "char": "😀",
+    "name": "grinning face",
+    "code": "U+1F600"
+  },
+  {
+    "char": "😃",
+    "name": "grinning face with big eyes",
+    "code": "U+1F603"
+  },
+  {
+    "char": "😄",
+    "name": "grinning face with smiling eyes",
+    "code": "U+1F604"
+  },
+  {
+    "char": "😁",
+    "name": "beaming face with smiling eyes",
+    "code": "U+1F601"
+  },
+  {
+    "char": "😆",
+    "name": "grinning squinting face",
+    "code": "U+1F606"
+  },
+  {
+    "char": "😅",
+    "name": "grinning face with sweat",
+    "code": "U+1F605"
+  },
+  {
+    "char": "🤣",
+    "name": "rolling on the floor laughing",
+    "code": "U+1F923"
+  },
+  {
+    "char": "😂",
+    "name": "face with tears of joy",
+    "code": "U+1F602"
+  },
+  {
+    "char": "🙂",
+    "name": "slightly smiling face",
+    "code": "U+1F642"
+  },
+  {
+    "char": "🙃",
+    "name": "upside-down face",
+    "code": "U+1F643"
+  },
+  {
+    "char": "🫠",
+    "name": "melting face",
+    "code": "U+1FAE0"
+  },
+  {
+    "char": "😉",
+    "name": "winking face",
+    "code": "U+1F609"
+  },
+  {
+    "char": "😊",
+    "name": "smiling face with smiling eyes",
+    "code": "U+1F60A"
+  },
+  {
+    "char": "😇",
+    "name": "smiling face with halo",
+    "code": "U+1F607"
+  },
+  {
+    "char": "🥰",
+    "name": "smiling face with hearts",
+    "code": "U+1F970"
+  },
+  {
+    "char": "😍",
+    "name": "smiling face with heart-eyes",
+    "code": "U+1F60D"
+  },
+  {
+    "char": "🤩",
+    "name": "star-struck",
+    "code": "U+1F929"
+  },
+  {
+    "char": "😘",
+    "name": "face blowing a kiss",
+    "code": "U+1F618"
+  },
+  {
+    "char": "😗",
+    "name": "kissing face",
+    "code": "U+1F617"
+  },
+  {
+    "char": "☺",
+    "name": "smiling face",
+    "code": "U+263A"
+  },
+  {
+    "char": "😚",
+    "name": "kissing face with closed eyes",
+    "code": "U+1F61A"
+  },
+  {
+    "char": "😙",
+    "name": "kissing face with smiling eyes",
+    "code": "U+1F619"
+  },
+  {
+    "char": "🥲",
+    "name": "smiling face with tear",
+    "code": "U+1F972"
+  },
+  {
+    "char": "😋",
+    "name": "face savoring food",
+    "code": "U+1F60B"
+  },
+  {
+    "char": "😛",
+    "name": "face with tongue",
+    "code": "U+1F61B"
+  },
+  {
+    "char": "😜",
+    "name": "winking face with tongue",
+    "code": "U+1F61C"
+  },
+  {
+    "char": "🤪",
+    "name": "zany face",
+    "code": "U+1F92A"
+  },
+  {
+    "char": "😝",
+    "name": "squinting face with tongue",
+    "code": "U+1F61D"
+  },
+  {
+    "char": "🤑",
+    "name": "money-mouth face",
+    "code": "U+1F911"
+  },
+  {
+    "char": "🤗",
+    "name": "smiling face with open hands",
+    "code": "U+1F917"
+  },
+  {
+    "char": "🤭",
+    "name": "face with hand over mouth",
+    "code": "U+1F92D"
+  },
+  {
+    "char": "🫢",
+    "name": "face with open eyes and hand over mouth",
+    "code": "U+1FAE2"
+  },
+  {
+    "char": "🫣",
+    "name": "face with peeking eye",
+    "code": "U+1FAE3"
+  },
+  {
+    "char": "🤫",
+    "name": "shushing face",
+    "code": "U+1F92B"
+  },
+  {
+    "char": "🤔",
+    "name": "thinking face",
+    "code": "U+1F914"
+  },
+  {
+    "char": "🫡",
+    "name": "saluting face",
+    "code": "U+1FAE1"
+  },
+  {
+    "char": "🤐",
+    "name": "zipper-mouth face",
+    "code": "U+1F910"
+  },
+  {
+    "char": "🤨",
+    "name": "face with raised eyebrow",
+    "code": "U+1F928"
+  },
+  {
+    "char": "😐",
+    "name": "neutral face",
+    "code": "U+1F610"
+  },
+  {
+    "char": "😑",
+    "name": "expressionless face",
+    "code": "U+1F611"
+  },
+  {
+    "char": "😶",
+    "name": "face without mouth",
+    "code": "U+1F636"
+  },
+  {
+    "char": "🫥",
+    "name": "dotted line face",
+    "code": "U+1FAE5"
+  },
+  {
+    "char": "😶‍🌫️",
+    "name": "face in clouds",
+    "code": "U+1F636 U+200D U+1F32B U+FE0F"
+  },
+  {
+    "char": "😏",
+    "name": "smirking face",
+    "code": "U+1F60F"
+  },
+  {
+    "char": "😒",
+    "name": "unamused face",
+    "code": "U+1F612"
+  },
+  {
+    "char": "🙄",
+    "name": "face with rolling eyes",
+    "code": "U+1F644"
+  },
+  {
+    "char": "😬",
+    "name": "grimacing face",
+    "code": "U+1F62C"
+  },
+  {
+    "char": "😮‍💨",
+    "name": "face exhaling",
+    "code": "U+1F62E U+200D U+1F4A8"
+  },
+  {
+    "char": "🤥",
+    "name": "lying face",
+    "code": "U+1F925"
+  },
+  {
+    "char": "🫨",
+    "name": "shaking face",
+    "code": "U+1FAE8"
+  },
+  {
+    "char": "🙂‍↔️",
+    "name": "head shaking horizontally",
+    "code": "U+1F642 U+200D U+2194 U+FE0F"
+  },
+  {
+    "char": "🙂‍↕️",
+    "name": "head shaking vertically",
+    "code": "U+1F642 U+200D U+2195 U+FE0F"
+  },
+  {
+    "char": "😌",
+    "name": "relieved face",
+    "code": "U+1F60C"
+  },
+  {
+    "char": "😔",
+    "name": "pensive face",
+    "code": "U+1F614"
+  },
+  {
+    "char": "😪",
+    "name": "sleepy face",
+    "code": "U+1F62A"
+  },
+  {
+    "char": "🤤",
+    "name": "drooling face",
+    "code": "U+1F924"
+  },
+  {
+    "char": "😴",
+    "name": "sleeping face",
+    "code": "U+1F634"
+  },
+  {
+    "char": "🫩",
+    "name": "face with bags under eyes",
+    "code": "U+1FAE9"
+  },
+  {
+    "char": "😷",
+    "name": "face with medical mask",
+    "code": "U+1F637"
+  },
+  {
+    "char": "🤒",
+    "name": "face with thermometer",
+    "code": "U+1F912"
+  },
+  {
+    "char": "🤕",
+    "name": "face with head-bandage",
+    "code": "U+1F915"
+  },
+  {
+    "char": "🤢",
+    "name": "nauseated face",
+    "code": "U+1F922"
+  },
+  {
+    "char": "🤮",
+    "name": "face vomiting",
+    "code": "U+1F92E"
+  },
+  {
+    "char": "🤧",
+    "name": "sneezing face",
+    "code": "U+1F927"
+  },
+  {
+    "char": "🥵",
+    "name": "hot face",
+    "code": "U+1F975"
+  },
+  {
+    "char": "🥶",
+    "name": "cold face",
+    "code": "U+1F976"
+  },
+  {
+    "char": "🥴",
+    "name": "woozy face",
+    "code": "U+1F974"
+  },
+  {
+    "char": "😵",
+    "name": "face with crossed-out eyes",
+    "code": "U+1F635"
+  },
+  {
+    "char": "😵‍💫",
+    "name": "face with spiral eyes",
+    "code": "U+1F635 U+200D U+1F4AB"
+  },
+  {
+    "char": "🤯",
+    "name": "exploding head",
+    "code": "U+1F92F"
+  },
+  {
+    "char": "🤠",
+    "name": "cowboy hat face",
+    "code": "U+1F920"
+  },
+  {
+    "char": "🥳",
+    "name": "partying face",
+    "code": "U+1F973"
+  },
+  {
+    "char": "🥸",
+    "name": "disguised face",
+    "code": "U+1F978"
+  },
+  {
+    "char": "😎",
+    "name": "smiling face with sunglasses",
+    "code": "U+1F60E"
+  },
+  {
+    "char": "🤓",
+    "name": "nerd face",
+    "code": "U+1F913"
+  },
+  {
+    "char": "🧐",
+    "name": "face with monocle",
+    "code": "U+1F9D0"
+  },
+  {
+    "char": "😕",
+    "name": "confused face",
+    "code": "U+1F615"
+  },
+  {
+    "char": "🫤",
+    "name": "face with diagonal mouth",
+    "code": "U+1FAE4"
+  },
+  {
+    "char": "😟",
+    "name": "worried face",
+    "code": "U+1F61F"
+  },
+  {
+    "char": "🙁",
+    "name": "slightly frowning face",
+    "code": "U+1F641"
+  },
+  {
+    "char": "☹",
+    "name": "frowning face",
+    "code": "U+2639"
+  },
+  {
+    "char": "😮",
+    "name": "face with open mouth",
+    "code": "U+1F62E"
+  },
+  {
+    "char": "😯",
+    "name": "hushed face",
+    "code": "U+1F62F"
+  },
+  {
+    "char": "😲",
+    "name": "astonished face",
+    "code": "U+1F632"
+  },
+  {
+    "char": "😳",
+    "name": "flushed face",
+    "code": "U+1F633"
+  },
+  {
+    "char": "🫪",
+    "name": "⊛ distorted face",
+    "code": "U+1FAEA"
+  },
+  {
+    "char": "🥺",
+    "name": "pleading face",
+    "code": "U+1F97A"
+  },
+  {
+    "char": "🥹",
+    "name": "face holding back tears",
+    "code": "U+1F979"
+  },
+  {
+    "char": "😦",
+    "name": "frowning face with open mouth",
+    "code": "U+1F626"
+  },
+  {
+    "char": "😧",
+    "name": "anguished face",
+    "code": "U+1F627"
+  },
+  {
+    "char": "😨",
+    "name": "fearful face",
+    "code": "U+1F628"
+  },
+  {
+    "char": "😰",
+    "name": "anxious face with sweat",
+    "code": "U+1F630"
+  },
+  {
+    "char": "😥",
+    "name": "sad but relieved face",
+    "code": "U+1F625"
+  },
+  {
+    "char": "😢",
+    "name": "crying face",
+    "code": "U+1F622"
+  },
+  {
+    "char": "😭",
+    "name": "loudly crying face",
+    "code": "U+1F62D"
+  },
+  {
+    "char": "😱",
+    "name": "face screaming in fear",
+    "code": "U+1F631"
+  },
+  {
+    "char": "😖",
+    "name": "confounded face",
+    "code": "U+1F616"
+  },
+  {
+    "char": "😣",
+    "name": "persevering face",
+    "code": "U+1F623"
+  },
+  {
+    "char": "😞",
+    "name": "disappointed face",
+    "code": "U+1F61E"
+  },
+  {
+    "char": "😓",
+    "name": "downcast face with sweat",
+    "code": "U+1F613"
+  },
+  {
+    "char": "😩",
+    "name": "weary face",
+    "code": "U+1F629"
+  },
+  {
+    "char": "😫",
+    "name": "tired face",
+    "code": "U+1F62B"
+  },
+  {
+    "char": "🥱",
+    "name": "yawning face",
+    "code": "U+1F971"
+  },
+  {
+    "char": "😤",
+    "name": "face with steam from nose",
+    "code": "U+1F624"
+  },
+  {
+    "char": "😡",
+    "name": "enraged face",
+    "code": "U+1F621"
+  },
+  {
+    "char": "😠",
+    "name": "angry face",
+    "code": "U+1F620"
+  },
+  {
+    "char": "🤬",
+    "name": "face with symbols on mouth",
+    "code": "U+1F92C"
+  },
+  {
+    "char": "😈",
+    "name": "smiling face with horns",
+    "code": "U+1F608"
+  },
+  {
+    "char": "👿",
+    "name": "angry face with horns",
+    "code": "U+1F47F"
+  },
+  {
+    "char": "💀",
+    "name": "skull",
+    "code": "U+1F480"
+  },
+  {
+    "char": "☠",
+    "name": "skull and crossbones",
+    "code": "U+2620"
+  },
+  {
+    "char": "💩",
+    "name": "pile of poo",
+    "code": "U+1F4A9"
+  },
+  {
+    "char": "🤡",
+    "name": "clown face",
+    "code": "U+1F921"
+  },
+  {
+    "char": "👹",
+    "name": "ogre",
+    "code": "U+1F479"
+  },
+  {
+    "char": "👺",
+    "name": "goblin",
+    "code": "U+1F47A"
+  },
+  {
+    "char": "👻",
+    "name": "ghost",
+    "code": "U+1F47B"
+  },
+  {
+    "char": "👽",
+    "name": "alien",
+    "code": "U+1F47D"
+  },
+  {
+    "char": "👾",
+    "name": "alien monster",
+    "code": "U+1F47E"
+  },
+  {
+    "char": "🤖",
+    "name": "robot",
+    "code": "U+1F916"
+  },
+  {
+    "char": "😺",
+    "name": "grinning cat",
+    "code": "U+1F63A"
+  },
+  {
+    "char": "😸",
+    "name": "grinning cat with smiling eyes",
+    "code": "U+1F638"
+  },
+  {
+    "char": "😹",
+    "name": "cat with tears of joy",
+    "code": "U+1F639"
+  },
+  {
+    "char": "😻",
+    "name": "smiling cat with heart-eyes",
+    "code": "U+1F63B"
+  },
+  {
+    "char": "😼",
+    "name": "cat with wry smile",
+    "code": "U+1F63C"
+  },
+  {
+    "char": "😽",
+    "name": "kissing cat",
+    "code": "U+1F63D"
+  },
+  {
+    "char": "🙀",
+    "name": "weary cat",
+    "code": "U+1F640"
+  },
+  {
+    "char": "😿",
+    "name": "crying cat",
+    "code": "U+1F63F"
+  },
+  {
+    "char": "😾",
+    "name": "pouting cat",
+    "code": "U+1F63E"
+  },
+  {
+    "char": "🙈",
+    "name": "see-no-evil monkey",
+    "code": "U+1F648"
+  },
+  {
+    "char": "🙉",
+    "name": "hear-no-evil monkey",
+    "code": "U+1F649"
+  },
+  {
+    "char": "🙊",
+    "name": "speak-no-evil monkey",
+    "code": "U+1F64A"
+  },
+  {
+    "char": "💌",
+    "name": "love letter",
+    "code": "U+1F48C"
+  },
+  {
+    "char": "💘",
+    "name": "heart with arrow",
+    "code": "U+1F498"
+  },
+  {
+    "char": "💝",
+    "name": "heart with ribbon",
+    "code": "U+1F49D"
+  },
+  {
+    "char": "💖",
+    "name": "sparkling heart",
+    "code": "U+1F496"
+  },
+  {
+    "char": "💗",
+    "name": "growing heart",
+    "code": "U+1F497"
+  },
+  {
+    "char": "💓",
+    "name": "beating heart",
+    "code": "U+1F493"
+  },
+  {
+    "char": "💞",
+    "name": "revolving hearts",
+    "code": "U+1F49E"
+  },
+  {
+    "char": "💕",
+    "name": "two hearts",
+    "code": "U+1F495"
+  },
+  {
+    "char": "💟",
+    "name": "heart decoration",
+    "code": "U+1F49F"
+  },
+  {
+    "char": "❣",
+    "name": "heart exclamation",
+    "code": "U+2763"
+  },
+  {
+    "char": "💔",
+    "name": "broken heart",
+    "code": "U+1F494"
+  },
+  {
+    "char": "❤️‍🔥",
+    "name": "heart on fire",
+    "code": "U+2764 U+FE0F U+200D U+1F525"
+  },
+  {
+    "char": "❤️‍🩹",
+    "name": "mending heart",
+    "code": "U+2764 U+FE0F U+200D U+1FA79"
+  },
+  {
+    "char": "❤",
+    "name": "red heart",
+    "code": "U+2764"
+  },
+  {
+    "char": "🩷",
+    "name": "pink heart",
+    "code": "U+1FA77"
+  },
+  {
+    "char": "🧡",
+    "name": "orange heart",
+    "code": "U+1F9E1"
+  },
+  {
+    "char": "💛",
+    "name": "yellow heart",
+    "code": "U+1F49B"
+  },
+  {
+    "char": "💚",
+    "name": "green heart",
+    "code": "U+1F49A"
+  },
+  {
+    "char": "💙",
+    "name": "blue heart",
+    "code": "U+1F499"
+  },
+  {
+    "char": "🩵",
+    "name": "light blue heart",
+    "code": "U+1FA75"
+  },
+  {
+    "char": "💜",
+    "name": "purple heart",
+    "code": "U+1F49C"
+  },
+  {
+    "char": "🤎",
+    "name": "brown heart",
+    "code": "U+1F90E"
+  },
+  {
+    "char": "🖤",
+    "name": "black heart",
+    "code": "U+1F5A4"
+  },
+  {
+    "char": "🩶",
+    "name": "grey heart",
+    "code": "U+1FA76"
+  },
+  {
+    "char": "🤍",
+    "name": "white heart",
+    "code": "U+1F90D"
+  },
+  {
+    "char": "💋",
+    "name": "kiss mark",
+    "code": "U+1F48B"
+  },
+  {
+    "char": "💯",
+    "name": "hundred points",
+    "code": "U+1F4AF"
+  },
+  {
+    "char": "💢",
+    "name": "anger symbol",
+    "code": "U+1F4A2"
+  },
+  {
+    "char": "🫯",
+    "name": "⊛ fight cloud",
+    "code": "U+1FAEF"
+  },
+  {
+    "char": "💥",
+    "name": "collision",
+    "code": "U+1F4A5"
+  },
+  {
+    "char": "💫",
+    "name": "dizzy",
+    "code": "U+1F4AB"
+  },
+  {
+    "char": "💦",
+    "name": "sweat droplets",
+    "code": "U+1F4A6"
+  },
+  {
+    "char": "💨",
+    "name": "dashing away",
+    "code": "U+1F4A8"
+  },
+  {
+    "char": "🕳",
+    "name": "hole",
+    "code": "U+1F573"
+  },
+  {
+    "char": "💬",
+    "name": "speech balloon",
+    "code": "U+1F4AC"
+  },
+  {
+    "char": "👁️‍🗨️",
+    "name": "eye in speech bubble",
+    "code": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F"
+  },
+  {
+    "char": "🗨",
+    "name": "left speech bubble",
+    "code": "U+1F5E8"
+  },
+  {
+    "char": "🗯",
+    "name": "right anger bubble",
+    "code": "U+1F5EF"
+  },
+  {
+    "char": "💭",
+    "name": "thought balloon",
+    "code": "U+1F4AD"
+  },
+  {
+    "char": "💤",
+    "name": "ZZZ",
+    "code": "U+1F4A4"
+  }
+]

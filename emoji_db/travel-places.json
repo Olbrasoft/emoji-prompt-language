@@ -1,0 +1,1097 @@
+[
+  {
+    "char": "🌍",
+    "name": "globe showing Europe-Africa",
+    "code": "U+1F30D"
+  },
+  {
+    "char": "🌎",
+    "name": "globe showing Americas",
+    "code": "U+1F30E"
+  },
+  {
+    "char": "🌏",
+    "name": "globe showing Asia-Australia",
+    "code": "U+1F30F"
+  },
+  {
+    "char": "🌐",
+    "name": "globe with meridians",
+    "code": "U+1F310"
+  },
+  {
+    "char": "🗺",
+    "name": "world map",
+    "code": "U+1F5FA"
+  },
+  {
+    "char": "🗾",
+    "name": "map of Japan",
+    "code": "U+1F5FE"
+  },
+  {
+    "char": "🧭",
+    "name": "compass",
+    "code": "U+1F9ED"
+  },
+  {
+    "char": "🏔",
+    "name": "snow-capped mountain",
+    "code": "U+1F3D4"
+  },
+  {
+    "char": "⛰",
+    "name": "mountain",
+    "code": "U+26F0"
+  },
+  {
+    "char": "🛘",
+    "name": "⊛ landslide",
+    "code": "U+1F6D8"
+  },
+  {
+    "char": "🌋",
+    "name": "volcano",
+    "code": "U+1F30B"
+  },
+  {
+    "char": "🗻",
+    "name": "mount fuji",
+    "code": "U+1F5FB"
+  },
+  {
+    "char": "🏕",
+    "name": "camping",
+    "code": "U+1F3D5"
+  },
+  {
+    "char": "🏖",
+    "name": "beach with umbrella",
+    "code": "U+1F3D6"
+  },
+  {
+    "char": "🏜",
+    "name": "desert",
+    "code": "U+1F3DC"
+  },
+  {
+    "char": "🏝",
+    "name": "desert island",
+    "code": "U+1F3DD"
+  },
+  {
+    "char": "🏞",
+    "name": "national park",
+    "code": "U+1F3DE"
+  },
+  {
+    "char": "🏟",
+    "name": "stadium",
+    "code": "U+1F3DF"
+  },
+  {
+    "char": "🏛",
+    "name": "classical building",
+    "code": "U+1F3DB"
+  },
+  {
+    "char": "🏗",
+    "name": "building construction",
+    "code": "U+1F3D7"
+  },
+  {
+    "char": "🧱",
+    "name": "brick",
+    "code": "U+1F9F1"
+  },
+  {
+    "char": "🪨",
+    "name": "rock",
+    "code": "U+1FAA8"
+  },
+  {
+    "char": "🪵",
+    "name": "wood",
+    "code": "U+1FAB5"
+  },
+  {
+    "char": "🛖",
+    "name": "hut",
+    "code": "U+1F6D6"
+  },
+  {
+    "char": "🏘",
+    "name": "houses",
+    "code": "U+1F3D8"
+  },
+  {
+    "char": "🏚",
+    "name": "derelict house",
+    "code": "U+1F3DA"
+  },
+  {
+    "char": "🏠",
+    "name": "house",
+    "code": "U+1F3E0"
+  },
+  {
+    "char": "🏡",
+    "name": "house with garden",
+    "code": "U+1F3E1"
+  },
+  {
+    "char": "🏢",
+    "name": "office building",
+    "code": "U+1F3E2"
+  },
+  {
+    "char": "🏣",
+    "name": "Japanese post office",
+    "code": "U+1F3E3"
+  },
+  {
+    "char": "🏤",
+    "name": "post office",
+    "code": "U+1F3E4"
+  },
+  {
+    "char": "🏥",
+    "name": "hospital",
+    "code": "U+1F3E5"
+  },
+  {
+    "char": "🏦",
+    "name": "bank",
+    "code": "U+1F3E6"
+  },
+  {
+    "char": "🏨",
+    "name": "hotel",
+    "code": "U+1F3E8"
+  },
+  {
+    "char": "🏩",
+    "name": "love hotel",
+    "code": "U+1F3E9"
+  },
+  {
+    "char": "🏪",
+    "name": "convenience store",
+    "code": "U+1F3EA"
+  },
+  {
+    "char": "🏫",
+    "name": "school",
+    "code": "U+1F3EB"
+  },
+  {
+    "char": "🏬",
+    "name": "department store",
+    "code": "U+1F3EC"
+  },
+  {
+    "char": "🏭",
+    "name": "factory",
+    "code": "U+1F3ED"
+  },
+  {
+    "char": "🏯",
+    "name": "Japanese castle",
+    "code": "U+1F3EF"
+  },
+  {
+    "char": "🏰",
+    "name": "castle",
+    "code": "U+1F3F0"
+  },
+  {
+    "char": "💒",
+    "name": "wedding",
+    "code": "U+1F492"
+  },
+  {
+    "char": "🗼",
+    "name": "Tokyo tower",
+    "code": "U+1F5FC"
+  },
+  {
+    "char": "🗽",
+    "name": "Statue of Liberty",
+    "code": "U+1F5FD"
+  },
+  {
+    "char": "⛪",
+    "name": "church",
+    "code": "U+26EA"
+  },
+  {
+    "char": "🕌",
+    "name": "mosque",
+    "code": "U+1F54C"
+  },
+  {
+    "char": "🛕",
+    "name": "hindu temple",
+    "code": "U+1F6D5"
+  },
+  {
+    "char": "🕍",
+    "name": "synagogue",
+    "code": "U+1F54D"
+  },
+  {
+    "char": "⛩",
+    "name": "shinto shrine",
+    "code": "U+26E9"
+  },
+  {
+    "char": "🕋",
+    "name": "kaaba",
+    "code": "U+1F54B"
+  },
+  {
+    "char": "⛲",
+    "name": "fountain",
+    "code": "U+26F2"
+  },
+  {
+    "char": "⛺",
+    "name": "tent",
+    "code": "U+26FA"
+  },
+  {
+    "char": "🌁",
+    "name": "foggy",
+    "code": "U+1F301"
+  },
+  {
+    "char": "🌃",
+    "name": "night with stars",
+    "code": "U+1F303"
+  },
+  {
+    "char": "🏙",
+    "name": "cityscape",
+    "code": "U+1F3D9"
+  },
+  {
+    "char": "🌄",
+    "name": "sunrise over mountains",
+    "code": "U+1F304"
+  },
+  {
+    "char": "🌅",
+    "name": "sunrise",
+    "code": "U+1F305"
+  },
+  {
+    "char": "🌆",
+    "name": "cityscape at dusk",
+    "code": "U+1F306"
+  },
+  {
+    "char": "🌇",
+    "name": "sunset",
+    "code": "U+1F307"
+  },
+  {
+    "char": "🌉",
+    "name": "bridge at night",
+    "code": "U+1F309"
+  },
+  {
+    "char": "♨",
+    "name": "hot springs",
+    "code": "U+2668"
+  },
+  {
+    "char": "🎠",
+    "name": "carousel horse",
+    "code": "U+1F3A0"
+  },
+  {
+    "char": "🛝",
+    "name": "playground slide",
+    "code": "U+1F6DD"
+  },
+  {
+    "char": "🎡",
+    "name": "ferris wheel",
+    "code": "U+1F3A1"
+  },
+  {
+    "char": "🎢",
+    "name": "roller coaster",
+    "code": "U+1F3A2"
+  },
+  {
+    "char": "💈",
+    "name": "barber pole",
+    "code": "U+1F488"
+  },
+  {
+    "char": "🎪",
+    "name": "circus tent",
+    "code": "U+1F3AA"
+  },
+  {
+    "char": "🚂",
+    "name": "locomotive",
+    "code": "U+1F682"
+  },
+  {
+    "char": "🚃",
+    "name": "railway car",
+    "code": "U+1F683"
+  },
+  {
+    "char": "🚄",
+    "name": "high-speed train",
+    "code": "U+1F684"
+  },
+  {
+    "char": "🚅",
+    "name": "bullet train",
+    "code": "U+1F685"
+  },
+  {
+    "char": "🚆",
+    "name": "train",
+    "code": "U+1F686"
+  },
+  {
+    "char": "🚇",
+    "name": "metro",
+    "code": "U+1F687"
+  },
+  {
+    "char": "🚈",
+    "name": "light rail",
+    "code": "U+1F688"
+  },
+  {
+    "char": "🚉",
+    "name": "station",
+    "code": "U+1F689"
+  },
+  {
+    "char": "🚊",
+    "name": "tram",
+    "code": "U+1F68A"
+  },
+  {
+    "char": "🚝",
+    "name": "monorail",
+    "code": "U+1F69D"
+  },
+  {
+    "char": "🚞",
+    "name": "mountain railway",
+    "code": "U+1F69E"
+  },
+  {
+    "char": "🚋",
+    "name": "tram car",
+    "code": "U+1F68B"
+  },
+  {
+    "char": "🚌",
+    "name": "bus",
+    "code": "U+1F68C"
+  },
+  {
+    "char": "🚍",
+    "name": "oncoming bus",
+    "code": "U+1F68D"
+  },
+  {
+    "char": "🚎",
+    "name": "trolleybus",
+    "code": "U+1F68E"
+  },
+  {
+    "char": "🚐",
+    "name": "minibus",
+    "code": "U+1F690"
+  },
+  {
+    "char": "🚑",
+    "name": "ambulance",
+    "code": "U+1F691"
+  },
+  {
+    "char": "🚒",
+    "name": "fire engine",
+    "code": "U+1F692"
+  },
+  {
+    "char": "🚓",
+    "name": "police car",
+    "code": "U+1F693"
+  },
+  {
+    "char": "🚔",
+    "name": "oncoming police car",
+    "code": "U+1F694"
+  },
+  {
+    "char": "🚕",
+    "name": "taxi",
+    "code": "U+1F695"
+  },
+  {
+    "char": "🚖",
+    "name": "oncoming taxi",
+    "code": "U+1F696"
+  },
+  {
+    "char": "🚗",
+    "name": "automobile",
+    "code": "U+1F697"
+  },
+  {
+    "char": "🚘",
+    "name": "oncoming automobile",
+    "code": "U+1F698"
+  },
+  {
+    "char": "🚙",
+    "name": "sport utility vehicle",
+    "code": "U+1F699"
+  },
+  {
+    "char": "🛻",
+    "name": "pickup truck",
+    "code": "U+1F6FB"
+  },
+  {
+    "char": "🚚",
+    "name": "delivery truck",
+    "code": "U+1F69A"
+  },
+  {
+    "char": "🚛",
+    "name": "articulated lorry",
+    "code": "U+1F69B"
+  },
+  {
+    "char": "🚜",
+    "name": "tractor",
+    "code": "U+1F69C"
+  },
+  {
+    "char": "🏎",
+    "name": "racing car",
+    "code": "U+1F3CE"
+  },
+  {
+    "char": "🏍",
+    "name": "motorcycle",
+    "code": "U+1F3CD"
+  },
+  {
+    "char": "🛵",
+    "name": "motor scooter",
+    "code": "U+1F6F5"
+  },
+  {
+    "char": "🦽",
+    "name": "manual wheelchair",
+    "code": "U+1F9BD"
+  },
+  {
+    "char": "🦼",
+    "name": "motorized wheelchair",
+    "code": "U+1F9BC"
+  },
+  {
+    "char": "🛺",
+    "name": "auto rickshaw",
+    "code": "U+1F6FA"
+  },
+  {
+    "char": "🚲",
+    "name": "bicycle",
+    "code": "U+1F6B2"
+  },
+  {
+    "char": "🛴",
+    "name": "kick scooter",
+    "code": "U+1F6F4"
+  },
+  {
+    "char": "🛹",
+    "name": "skateboard",
+    "code": "U+1F6F9"
+  },
+  {
+    "char": "🛼",
+    "name": "roller skate",
+    "code": "U+1F6FC"
+  },
+  {
+    "char": "🚏",
+    "name": "bus stop",
+    "code": "U+1F68F"
+  },
+  {
+    "char": "🛣",
+    "name": "motorway",
+    "code": "U+1F6E3"
+  },
+  {
+    "char": "🛤",
+    "name": "railway track",
+    "code": "U+1F6E4"
+  },
+  {
+    "char": "🛢",
+    "name": "oil drum",
+    "code": "U+1F6E2"
+  },
+  {
+    "char": "⛽",
+    "name": "fuel pump",
+    "code": "U+26FD"
+  },
+  {
+    "char": "🛞",
+    "name": "wheel",
+    "code": "U+1F6DE"
+  },
+  {
+    "char": "🚨",
+    "name": "police car light",
+    "code": "U+1F6A8"
+  },
+  {
+    "char": "🚥",
+    "name": "horizontal traffic light",
+    "code": "U+1F6A5"
+  },
+  {
+    "char": "🚦",
+    "name": "vertical traffic light",
+    "code": "U+1F6A6"
+  },
+  {
+    "char": "🛑",
+    "name": "stop sign",
+    "code": "U+1F6D1"
+  },
+  {
+    "char": "🚧",
+    "name": "construction",
+    "code": "U+1F6A7"
+  },
+  {
+    "char": "⚓",
+    "name": "anchor",
+    "code": "U+2693"
+  },
+  {
+    "char": "🛟",
+    "name": "ring buoy",
+    "code": "U+1F6DF"
+  },
+  {
+    "char": "⛵",
+    "name": "sailboat",
+    "code": "U+26F5"
+  },
+  {
+    "char": "🛶",
+    "name": "canoe",
+    "code": "U+1F6F6"
+  },
+  {
+    "char": "🚤",
+    "name": "speedboat",
+    "code": "U+1F6A4"
+  },
+  {
+    "char": "🛳",
+    "name": "passenger ship",
+    "code": "U+1F6F3"
+  },
+  {
+    "char": "⛴",
+    "name": "ferry",
+    "code": "U+26F4"
+  },
+  {
+    "char": "🛥",
+    "name": "motor boat",
+    "code": "U+1F6E5"
+  },
+  {
+    "char": "🚢",
+    "name": "ship",
+    "code": "U+1F6A2"
+  },
+  {
+    "char": "✈",
+    "name": "airplane",
+    "code": "U+2708"
+  },
+  {
+    "char": "🛩",
+    "name": "small airplane",
+    "code": "U+1F6E9"
+  },
+  {
+    "char": "🛫",
+    "name": "airplane departure",
+    "code": "U+1F6EB"
+  },
+  {
+    "char": "🛬",
+    "name": "airplane arrival",
+    "code": "U+1F6EC"
+  },
+  {
+    "char": "🪂",
+    "name": "parachute",
+    "code": "U+1FA82"
+  },
+  {
+    "char": "💺",
+    "name": "seat",
+    "code": "U+1F4BA"
+  },
+  {
+    "char": "🚁",
+    "name": "helicopter",
+    "code": "U+1F681"
+  },
+  {
+    "char": "🚟",
+    "name": "suspension railway",
+    "code": "U+1F69F"
+  },
+  {
+    "char": "🚠",
+    "name": "mountain cableway",
+    "code": "U+1F6A0"
+  },
+  {
+    "char": "🚡",
+    "name": "aerial tramway",
+    "code": "U+1F6A1"
+  },
+  {
+    "char": "🛰",
+    "name": "satellite",
+    "code": "U+1F6F0"
+  },
+  {
+    "char": "🚀",
+    "name": "rocket",
+    "code": "U+1F680"
+  },
+  {
+    "char": "🛸",
+    "name": "flying saucer",
+    "code": "U+1F6F8"
+  },
+  {
+    "char": "🛎",
+    "name": "bellhop bell",
+    "code": "U+1F6CE"
+  },
+  {
+    "char": "🧳",
+    "name": "luggage",
+    "code": "U+1F9F3"
+  },
+  {
+    "char": "⌛",
+    "name": "hourglass done",
+    "code": "U+231B"
+  },
+  {
+    "char": "⏳",
+    "name": "hourglass not done",
+    "code": "U+23F3"
+  },
+  {
+    "char": "⌚",
+    "name": "watch",
+    "code": "U+231A"
+  },
+  {
+    "char": "⏰",
+    "name": "alarm clock",
+    "code": "U+23F0"
+  },
+  {
+    "char": "⏱",
+    "name": "stopwatch",
+    "code": "U+23F1"
+  },
+  {
+    "char": "⏲",
+    "name": "timer clock",
+    "code": "U+23F2"
+  },
+  {
+    "char": "🕰",
+    "name": "mantelpiece clock",
+    "code": "U+1F570"
+  },
+  {
+    "char": "🕛",
+    "name": "twelve o’clock",
+    "code": "U+1F55B"
+  },
+  {
+    "char": "🕧",
+    "name": "twelve-thirty",
+    "code": "U+1F567"
+  },
+  {
+    "char": "🕐",
+    "name": "one o’clock",
+    "code": "U+1F550"
+  },
+  {
+    "char": "🕜",
+    "name": "one-thirty",
+    "code": "U+1F55C"
+  },
+  {
+    "char": "🕑",
+    "name": "two o’clock",
+    "code": "U+1F551"
+  },
+  {
+    "char": "🕝",
+    "name": "two-thirty",
+    "code": "U+1F55D"
+  },
+  {
+    "char": "🕒",
+    "name": "three o’clock",
+    "code": "U+1F552"
+  },
+  {
+    "char": "🕞",
+    "name": "three-thirty",
+    "code": "U+1F55E"
+  },
+  {
+    "char": "🕓",
+    "name": "four o’clock",
+    "code": "U+1F553"
+  },
+  {
+    "char": "🕟",
+    "name": "four-thirty",
+    "code": "U+1F55F"
+  },
+  {
+    "char": "🕔",
+    "name": "five o’clock",
+    "code": "U+1F554"
+  },
+  {
+    "char": "🕠",
+    "name": "five-thirty",
+    "code": "U+1F560"
+  },
+  {
+    "char": "🕕",
+    "name": "six o’clock",
+    "code": "U+1F555"
+  },
+  {
+    "char": "🕡",
+    "name": "six-thirty",
+    "code": "U+1F561"
+  },
+  {
+    "char": "🕖",
+    "name": "seven o’clock",
+    "code": "U+1F556"
+  },
+  {
+    "char": "🕢",
+    "name": "seven-thirty",
+    "code": "U+1F562"
+  },
+  {
+    "char": "🕗",
+    "name": "eight o’clock",
+    "code": "U+1F557"
+  },
+  {
+    "char": "🕣",
+    "name": "eight-thirty",
+    "code": "U+1F563"
+  },
+  {
+    "char": "🕘",
+    "name": "nine o’clock",
+    "code": "U+1F558"
+  },
+  {
+    "char": "🕤",
+    "name": "nine-thirty",
+    "code": "U+1F564"
+  },
+  {
+    "char": "🕙",
+    "name": "ten o’clock",
+    "code": "U+1F559"
+  },
+  {
+    "char": "🕥",
+    "name": "ten-thirty",
+    "code": "U+1F565"
+  },
+  {
+    "char": "🕚",
+    "name": "eleven o’clock",
+    "code": "U+1F55A"
+  },
+  {
+    "char": "🕦",
+    "name": "eleven-thirty",
+    "code": "U+1F566"
+  },
+  {
+    "char": "🌑",
+    "name": "new moon",
+    "code": "U+1F311"
+  },
+  {
+    "char": "🌒",
+    "name": "waxing crescent moon",
+    "code": "U+1F312"
+  },
+  {
+    "char": "🌓",
+    "name": "first quarter moon",
+    "code": "U+1F313"
+  },
+  {
+    "char": "🌔",
+    "name": "waxing gibbous moon",
+    "code": "U+1F314"
+  },
+  {
+    "char": "🌕",
+    "name": "full moon",
+    "code": "U+1F315"
+  },
+  {
+    "char": "🌖",
+    "name": "waning gibbous moon",
+    "code": "U+1F316"
+  },
+  {
+    "char": "🌗",
+    "name": "last quarter moon",
+    "code": "U+1F317"
+  },
+  {
+    "char": "🌘",
+    "name": "waning crescent moon",
+    "code": "U+1F318"
+  },
+  {
+    "char": "🌙",
+    "name": "crescent moon",
+    "code": "U+1F319"
+  },
+  {
+    "char": "🌚",
+    "name": "new moon face",
+    "code": "U+1F31A"
+  },
+  {
+    "char": "🌛",
+    "name": "first quarter moon face",
+    "code": "U+1F31B"
+  },
+  {
+    "char": "🌜",
+    "name": "last quarter moon face",
+    "code": "U+1F31C"
+  },
+  {
+    "char": "🌡",
+    "name": "thermometer",
+    "code": "U+1F321"
+  },
+  {
+    "char": "☀",
+    "name": "sun",
+    "code": "U+2600"
+  },
+  {
+    "char": "🌝",
+    "name": "full moon face",
+    "code": "U+1F31D"
+  },
+  {
+    "char": "🌞",
+    "name": "sun with face",
+    "code": "U+1F31E"
+  },
+  {
+    "char": "🪐",
+    "name": "ringed planet",
+    "code": "U+1FA90"
+  },
+  {
+    "char": "⭐",
+    "name": "star",
+    "code": "U+2B50"
+  },
+  {
+    "char": "🌟",
+    "name": "glowing star",
+    "code": "U+1F31F"
+  },
+  {
+    "char": "🌠",
+    "name": "shooting star",
+    "code": "U+1F320"
+  },
+  {
+    "char": "🌌",
+    "name": "milky way",
+    "code": "U+1F30C"
+  },
+  {
+    "char": "☁",
+    "name": "cloud",
+    "code": "U+2601"
+  },
+  {
+    "char": "⛅",
+    "name": "sun behind cloud",
+    "code": "U+26C5"
+  },
+  {
+    "char": "⛈",
+    "name": "cloud with lightning and rain",
+    "code": "U+26C8"
+  },
+  {
+    "char": "🌤",
+    "name": "sun behind small cloud",
+    "code": "U+1F324"
+  },
+  {
+    "char": "🌥",
+    "name": "sun behind large cloud",
+    "code": "U+1F325"
+  },
+  {
+    "char": "🌦",
+    "name": "sun behind rain cloud",
+    "code": "U+1F326"
+  },
+  {
+    "char": "🌧",
+    "name": "cloud with rain",
+    "code": "U+1F327"
+  },
+  {
+    "char": "🌨",
+    "name": "cloud with snow",
+    "code": "U+1F328"
+  },
+  {
+    "char": "🌩",
+    "name": "cloud with lightning",
+    "code": "U+1F329"
+  },
+  {
+    "char": "🌪",
+    "name": "tornado",
+    "code": "U+1F32A"
+  },
+  {
+    "char": "🌫",
+    "name": "fog",
+    "code": "U+1F32B"
+  },
+  {
+    "char": "🌬",
+    "name": "wind face",
+    "code": "U+1F32C"
+  },
+  {
+    "char": "🌀",
+    "name": "cyclone",
+    "code": "U+1F300"
+  },
+  {
+    "char": "🌈",
+    "name": "rainbow",
+    "code": "U+1F308"
+  },
+  {
+    "char": "🌂",
+    "name": "closed umbrella",
+    "code": "U+1F302"
+  },
+  {
+    "char": "☂",
+    "name": "umbrella",
+    "code": "U+2602"
+  },
+  {
+    "char": "☔",
+    "name": "umbrella with rain drops",
+    "code": "U+2614"
+  },
+  {
+    "char": "⛱",
+    "name": "umbrella on ground",
+    "code": "U+26F1"
+  },
+  {
+    "char": "⚡",
+    "name": "high voltage",
+    "code": "U+26A1"
+  },
+  {
+    "char": "❄",
+    "name": "snowflake",
+    "code": "U+2744"
+  },
+  {
+    "char": "☃",
+    "name": "snowman",
+    "code": "U+2603"
+  },
+  {
+    "char": "⛄",
+    "name": "snowman without snow",
+    "code": "U+26C4"
+  },
+  {
+    "char": "☄",
+    "name": "comet",
+    "code": "U+2604"
+  },
+  {
+    "char": "🔥",
+    "name": "fire",
+    "code": "U+1F525"
+  },
+  {
+    "char": "💧",
+    "name": "droplet",
+    "code": "U+1F4A7"
+  },
+  {
+    "char": "🌊",
+    "name": "water wave",
+    "code": "U+1F30A"
+  }
+]

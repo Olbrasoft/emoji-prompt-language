@@ -1,0 +1,802 @@
+[
+  {
+    "char": "🐵",
+    "name": "monkey face",
+    "code": "U+1F435"
+  },
+  {
+    "char": "🐒",
+    "name": "monkey",
+    "code": "U+1F412"
+  },
+  {
+    "char": "🦍",
+    "name": "gorilla",
+    "code": "U+1F98D"
+  },
+  {
+    "char": "🦧",
+    "name": "orangutan",
+    "code": "U+1F9A7"
+  },
+  {
+    "char": "🐶",
+    "name": "dog face",
+    "code": "U+1F436"
+  },
+  {
+    "char": "🐕",
+    "name": "dog",
+    "code": "U+1F415"
+  },
+  {
+    "char": "🦮",
+    "name": "guide dog",
+    "code": "U+1F9AE"
+  },
+  {
+    "char": "🐕‍🦺",
+    "name": "service dog",
+    "code": "U+1F415 U+200D U+1F9BA"
+  },
+  {
+    "char": "🐩",
+    "name": "poodle",
+    "code": "U+1F429"
+  },
+  {
+    "char": "🐺",
+    "name": "wolf",
+    "code": "U+1F43A"
+  },
+  {
+    "char": "🦊",
+    "name": "fox",
+    "code": "U+1F98A"
+  },
+  {
+    "char": "🦝",
+    "name": "raccoon",
+    "code": "U+1F99D"
+  },
+  {
+    "char": "🐱",
+    "name": "cat face",
+    "code": "U+1F431"
+  },
+  {
+    "char": "🐈",
+    "name": "cat",
+    "code": "U+1F408"
+  },
+  {
+    "char": "🐈‍⬛",
+    "name": "black cat",
+    "code": "U+1F408 U+200D U+2B1B"
+  },
+  {
+    "char": "🦁",
+    "name": "lion",
+    "code": "U+1F981"
+  },
+  {
+    "char": "🐯",
+    "name": "tiger face",
+    "code": "U+1F42F"
+  },
+  {
+    "char": "🐅",
+    "name": "tiger",
+    "code": "U+1F405"
+  },
+  {
+    "char": "🐆",
+    "name": "leopard",
+    "code": "U+1F406"
+  },
+  {
+    "char": "🐴",
+    "name": "horse face",
+    "code": "U+1F434"
+  },
+  {
+    "char": "🫎",
+    "name": "moose",
+    "code": "U+1FACE"
+  },
+  {
+    "char": "🫏",
+    "name": "donkey",
+    "code": "U+1FACF"
+  },
+  {
+    "char": "🐎",
+    "name": "horse",
+    "code": "U+1F40E"
+  },
+  {
+    "char": "🦄",
+    "name": "unicorn",
+    "code": "U+1F984"
+  },
+  {
+    "char": "🦓",
+    "name": "zebra",
+    "code": "U+1F993"
+  },
+  {
+    "char": "🦌",
+    "name": "deer",
+    "code": "U+1F98C"
+  },
+  {
+    "char": "🦬",
+    "name": "bison",
+    "code": "U+1F9AC"
+  },
+  {
+    "char": "🐮",
+    "name": "cow face",
+    "code": "U+1F42E"
+  },
+  {
+    "char": "🐂",
+    "name": "ox",
+    "code": "U+1F402"
+  },
+  {
+    "char": "🐃",
+    "name": "water buffalo",
+    "code": "U+1F403"
+  },
+  {
+    "char": "🐄",
+    "name": "cow",
+    "code": "U+1F404"
+  },
+  {
+    "char": "🐷",
+    "name": "pig face",
+    "code": "U+1F437"
+  },
+  {
+    "char": "🐖",
+    "name": "pig",
+    "code": "U+1F416"
+  },
+  {
+    "char": "🐗",
+    "name": "boar",
+    "code": "U+1F417"
+  },
+  {
+    "char": "🐽",
+    "name": "pig nose",
+    "code": "U+1F43D"
+  },
+  {
+    "char": "🐏",
+    "name": "ram",
+    "code": "U+1F40F"
+  },
+  {
+    "char": "🐑",
+    "name": "ewe",
+    "code": "U+1F411"
+  },
+  {
+    "char": "🐐",
+    "name": "goat",
+    "code": "U+1F410"
+  },
+  {
+    "char": "🐪",
+    "name": "camel",
+    "code": "U+1F42A"
+  },
+  {
+    "char": "🐫",
+    "name": "two-hump camel",
+    "code": "U+1F42B"
+  },
+  {
+    "char": "🦙",
+    "name": "llama",
+    "code": "U+1F999"
+  },
+  {
+    "char": "🦒",
+    "name": "giraffe",
+    "code": "U+1F992"
+  },
+  {
+    "char": "🐘",
+    "name": "elephant",
+    "code": "U+1F418"
+  },
+  {
+    "char": "🦣",
+    "name": "mammoth",
+    "code": "U+1F9A3"
+  },
+  {
+    "char": "🦏",
+    "name": "rhinoceros",
+    "code": "U+1F98F"
+  },
+  {
+    "char": "🦛",
+    "name": "hippopotamus",
+    "code": "U+1F99B"
+  },
+  {
+    "char": "🐭",
+    "name": "mouse face",
+    "code": "U+1F42D"
+  },
+  {
+    "char": "🐁",
+    "name": "mouse",
+    "code": "U+1F401"
+  },
+  {
+    "char": "🐀",
+    "name": "rat",
+    "code": "U+1F400"
+  },
+  {
+    "char": "🐹",
+    "name": "hamster",
+    "code": "U+1F439"
+  },
+  {
+    "char": "🐰",
+    "name": "rabbit face",
+    "code": "U+1F430"
+  },
+  {
+    "char": "🐇",
+    "name": "rabbit",
+    "code": "U+1F407"
+  },
+  {
+    "char": "🐿",
+    "name": "chipmunk",
+    "code": "U+1F43F"
+  },
+  {
+    "char": "🦫",
+    "name": "beaver",
+    "code": "U+1F9AB"
+  },
+  {
+    "char": "🦔",
+    "name": "hedgehog",
+    "code": "U+1F994"
+  },
+  {
+    "char": "🦇",
+    "name": "bat",
+    "code": "U+1F987"
+  },
+  {
+    "char": "🐻",
+    "name": "bear",
+    "code": "U+1F43B"
+  },
+  {
+    "char": "🐻‍❄️",
+    "name": "polar bear",
+    "code": "U+1F43B U+200D U+2744 U+FE0F"
+  },
+  {
+    "char": "🐨",
+    "name": "koala",
+    "code": "U+1F428"
+  },
+  {
+    "char": "🐼",
+    "name": "panda",
+    "code": "U+1F43C"
+  },
+  {
+    "char": "🦥",
+    "name": "sloth",
+    "code": "U+1F9A5"
+  },
+  {
+    "char": "🦦",
+    "name": "otter",
+    "code": "U+1F9A6"
+  },
+  {
+    "char": "🦨",
+    "name": "skunk",
+    "code": "U+1F9A8"
+  },
+  {
+    "char": "🦘",
+    "name": "kangaroo",
+    "code": "U+1F998"
+  },
+  {
+    "char": "🦡",
+    "name": "badger",
+    "code": "U+1F9A1"
+  },
+  {
+    "char": "🐾",
+    "name": "paw prints",
+    "code": "U+1F43E"
+  },
+  {
+    "char": "🦃",
+    "name": "turkey",
+    "code": "U+1F983"
+  },
+  {
+    "char": "🐔",
+    "name": "chicken",
+    "code": "U+1F414"
+  },
+  {
+    "char": "🐓",
+    "name": "rooster",
+    "code": "U+1F413"
+  },
+  {
+    "char": "🐣",
+    "name": "hatching chick",
+    "code": "U+1F423"
+  },
+  {
+    "char": "🐤",
+    "name": "baby chick",
+    "code": "U+1F424"
+  },
+  {
+    "char": "🐥",
+    "name": "front-facing baby chick",
+    "code": "U+1F425"
+  },
+  {
+    "char": "🐦",
+    "name": "bird",
+    "code": "U+1F426"
+  },
+  {
+    "char": "🐧",
+    "name": "penguin",
+    "code": "U+1F427"
+  },
+  {
+    "char": "🕊",
+    "name": "dove",
+    "code": "U+1F54A"
+  },
+  {
+    "char": "🦅",
+    "name": "eagle",
+    "code": "U+1F985"
+  },
+  {
+    "char": "🦆",
+    "name": "duck",
+    "code": "U+1F986"
+  },
+  {
+    "char": "🦢",
+    "name": "swan",
+    "code": "U+1F9A2"
+  },
+  {
+    "char": "🦉",
+    "name": "owl",
+    "code": "U+1F989"
+  },
+  {
+    "char": "🦤",
+    "name": "dodo",
+    "code": "U+1F9A4"
+  },
+  {
+    "char": "🪶",
+    "name": "feather",
+    "code": "U+1FAB6"
+  },
+  {
+    "char": "🦩",
+    "name": "flamingo",
+    "code": "U+1F9A9"
+  },
+  {
+    "char": "🦚",
+    "name": "peacock",
+    "code": "U+1F99A"
+  },
+  {
+    "char": "🦜",
+    "name": "parrot",
+    "code": "U+1F99C"
+  },
+  {
+    "char": "🪽",
+    "name": "wing",
+    "code": "U+1FABD"
+  },
+  {
+    "char": "🐦‍⬛",
+    "name": "black bird",
+    "code": "U+1F426 U+200D U+2B1B"
+  },
+  {
+    "char": "🪿",
+    "name": "goose",
+    "code": "U+1FABF"
+  },
+  {
+    "char": "🐦‍🔥",
+    "name": "phoenix",
+    "code": "U+1F426 U+200D U+1F525"
+  },
+  {
+    "char": "🐸",
+    "name": "frog",
+    "code": "U+1F438"
+  },
+  {
+    "char": "🐊",
+    "name": "crocodile",
+    "code": "U+1F40A"
+  },
+  {
+    "char": "🐢",
+    "name": "turtle",
+    "code": "U+1F422"
+  },
+  {
+    "char": "🦎",
+    "name": "lizard",
+    "code": "U+1F98E"
+  },
+  {
+    "char": "🐍",
+    "name": "snake",
+    "code": "U+1F40D"
+  },
+  {
+    "char": "🐲",
+    "name": "dragon face",
+    "code": "U+1F432"
+  },
+  {
+    "char": "🐉",
+    "name": "dragon",
+    "code": "U+1F409"
+  },
+  {
+    "char": "🦕",
+    "name": "sauropod",
+    "code": "U+1F995"
+  },
+  {
+    "char": "🦖",
+    "name": "T-Rex",
+    "code": "U+1F996"
+  },
+  {
+    "char": "🐳",
+    "name": "spouting whale",
+    "code": "U+1F433"
+  },
+  {
+    "char": "🐋",
+    "name": "whale",
+    "code": "U+1F40B"
+  },
+  {
+    "char": "🐬",
+    "name": "dolphin",
+    "code": "U+1F42C"
+  },
+  {
+    "char": "🫍",
+    "name": "⊛ orca",
+    "code": "U+1FACD"
+  },
+  {
+    "char": "🦭",
+    "name": "seal",
+    "code": "U+1F9AD"
+  },
+  {
+    "char": "🐟",
+    "name": "fish",
+    "code": "U+1F41F"
+  },
+  {
+    "char": "🐠",
+    "name": "tropical fish",
+    "code": "U+1F420"
+  },
+  {
+    "char": "🐡",
+    "name": "blowfish",
+    "code": "U+1F421"
+  },
+  {
+    "char": "🦈",
+    "name": "shark",
+    "code": "U+1F988"
+  },
+  {
+    "char": "🐙",
+    "name": "octopus",
+    "code": "U+1F419"
+  },
+  {
+    "char": "🐚",
+    "name": "spiral shell",
+    "code": "U+1F41A"
+  },
+  {
+    "char": "🪸",
+    "name": "coral",
+    "code": "U+1FAB8"
+  },
+  {
+    "char": "🪼",
+    "name": "jellyfish",
+    "code": "U+1FABC"
+  },
+  {
+    "char": "🦀",
+    "name": "crab",
+    "code": "U+1F980"
+  },
+  {
+    "char": "🦞",
+    "name": "lobster",
+    "code": "U+1F99E"
+  },
+  {
+    "char": "🦐",
+    "name": "shrimp",
+    "code": "U+1F990"
+  },
+  {
+    "char": "🦑",
+    "name": "squid",
+    "code": "U+1F991"
+  },
+  {
+    "char": "🦪",
+    "name": "oyster",
+    "code": "U+1F9AA"
+  },
+  {
+    "char": "🐌",
+    "name": "snail",
+    "code": "U+1F40C"
+  },
+  {
+    "char": "🦋",
+    "name": "butterfly",
+    "code": "U+1F98B"
+  },
+  {
+    "char": "🐛",
+    "name": "bug",
+    "code": "U+1F41B"
+  },
+  {
+    "char": "🐜",
+    "name": "ant",
+    "code": "U+1F41C"
+  },
+  {
+    "char": "🐝",
+    "name": "honeybee",
+    "code": "U+1F41D"
+  },
+  {
+    "char": "🪲",
+    "name": "beetle",
+    "code": "U+1FAB2"
+  },
+  {
+    "char": "🐞",
+    "name": "lady beetle",
+    "code": "U+1F41E"
+  },
+  {
+    "char": "🦗",
+    "name": "cricket",
+    "code": "U+1F997"
+  },
+  {
+    "char": "🪳",
+    "name": "cockroach",
+    "code": "U+1FAB3"
+  },
+  {
+    "char": "🕷",
+    "name": "spider",
+    "code": "U+1F577"
+  },
+  {
+    "char": "🕸",
+    "name": "spider web",
+    "code": "U+1F578"
+  },
+  {
+    "char": "🦂",
+    "name": "scorpion",
+    "code": "U+1F982"
+  },
+  {
+    "char": "🦟",
+    "name": "mosquito",
+    "code": "U+1F99F"
+  },
+  {
+    "char": "🪰",
+    "name": "fly",
+    "code": "U+1FAB0"
+  },
+  {
+    "char": "🪱",
+    "name": "worm",
+    "code": "U+1FAB1"
+  },
+  {
+    "char": "🦠",
+    "name": "microbe",
+    "code": "U+1F9A0"
+  },
+  {
+    "char": "💐",
+    "name": "bouquet",
+    "code": "U+1F490"
+  },
+  {
+    "char": "🌸",
+    "name": "cherry blossom",
+    "code": "U+1F338"
+  },
+  {
+    "char": "💮",
+    "name": "white flower",
+    "code": "U+1F4AE"
+  },
+  {
+    "char": "🪷",
+    "name": "lotus",
+    "code": "U+1FAB7"
+  },
+  {
+    "char": "🏵",
+    "name": "rosette",
+    "code": "U+1F3F5"
+  },
+  {
+    "char": "🌹",
+    "name": "rose",
+    "code": "U+1F339"
+  },
+  {
+    "char": "🥀",
+    "name": "wilted flower",
+    "code": "U+1F940"
+  },
+  {
+    "char": "🌺",
+    "name": "hibiscus",
+    "code": "U+1F33A"
+  },
+  {
+    "char": "🌻",
+    "name": "sunflower",
+    "code": "U+1F33B"
+  },
+  {
+    "char": "🌼",
+    "name": "blossom",
+    "code": "U+1F33C"
+  },
+  {
+    "char": "🌷",
+    "name": "tulip",
+    "code": "U+1F337"
+  },
+  {
+    "char": "🪻",
+    "name": "hyacinth",
+    "code": "U+1FABB"
+  },
+  {
+    "char": "🌱",
+    "name": "seedling",
+    "code": "U+1F331"
+  },
+  {
+    "char": "🪴",
+    "name": "potted plant",
+    "code": "U+1FAB4"
+  },
+  {
+    "char": "🌲",
+    "name": "evergreen tree",
+    "code": "U+1F332"
+  },
+  {
+    "char": "🌳",
+    "name": "deciduous tree",
+    "code": "U+1F333"
+  },
+  {
+    "char": "🌴",
+    "name": "palm tree",
+    "code": "U+1F334"
+  },
+  {
+    "char": "🌵",
+    "name": "cactus",
+    "code": "U+1F335"
+  },
+  {
+    "char": "🌾",
+    "name": "sheaf of rice",
+    "code": "U+1F33E"
+  },
+  {
+    "char": "🌿",
+    "name": "herb",
+    "code": "U+1F33F"
+  },
+  {
+    "char": "☘",
+    "name": "shamrock",
+    "code": "U+2618"
+  },
+  {
+    "char": "🍀",
+    "name": "four leaf clover",
+    "code": "U+1F340"
+  },
+  {
+    "char": "🍁",
+    "name": "maple leaf",
+    "code": "U+1F341"
+  },
+  {
+    "char": "🍂",
+    "name": "fallen leaf",
+    "code": "U+1F342"
+  },
+  {
+    "char": "🍃",
+    "name": "leaf fluttering in wind",
+    "code": "U+1F343"
+  },
+  {
+    "char": "🪹",
+    "name": "empty nest",
+    "code": "U+1FAB9"
+  },
+  {
+    "char": "🪺",
+    "name": "nest with eggs",
+    "code": "U+1FABA"
+  },
+  {
+    "char": "🍄",
+    "name": "mushroom",
+    "code": "U+1F344"
+  },
+  {
+    "char": "🪾",
+    "name": "leafless tree",
+    "code": "U+1FABE"
+  }
+]

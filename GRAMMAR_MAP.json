@@ -1,0 +1,70 @@
+{
+    "👤": {
+        "role": "SUBJECT",
+        "meaning": "user"
+    },
+    "🤖": {
+        "role": "SUBJECT",
+        "meaning": "AI"
+    },
+    "👨‍💻": {
+        "role": "SUBJECT",
+        "meaning": "developer"
+    },
+    "🚀": {
+        "role": "ACTION",
+        "meaning": "starts"
+    },
+    "🔍": {
+        "role": "ACTION",
+        "meaning": "searches for"
+    },
+    "💾": {
+        "role": "ACTION",
+        "meaning": "saves"
+    },
+    "⚙️": {
+        "role": "ACTION",
+        "meaning": "configures"
+    },
+    "💬": {
+        "role": "ACTION",
+        "meaning": "sends message"
+    },
+    "📄": {
+        "role": "OBJECT",
+        "meaning": "a file"
+    },
+    "🗪": {
+        "role": "OBJECT",
+        "meaning": "a discussion"
+    },
+    "💡": {
+        "role": "OBJECT",
+        "meaning": "an idea"
+    },
+    "🌐": {
+        "role": "OBJECT",
+        "meaning": "the web"
+    },
+    "✅": {
+        "role": "STATE",
+        "meaning": "success"
+    },
+    "❌": {
+        "role": "STATE",
+        "meaning": "failure"
+    },
+    "🔔": {
+        "role": "STATE",
+        "meaning": "notification"
+    },
+    "➡️": {
+        "role": "MODIFIER",
+        "meaning": "then"
+    },
+    "🔄": {
+        "role": "MODIFIER",
+        "meaning": "in a loop"
+    }
+}

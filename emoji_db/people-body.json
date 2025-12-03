@@ -1,0 +1,1852 @@
+[
+  {
+    "char": "👋",
+    "name": "waving hand",
+    "code": "U+1F44B"
+  },
+  {
+    "char": "🤚",
+    "name": "raised back of hand",
+    "code": "U+1F91A"
+  },
+  {
+    "char": "🖐",
+    "name": "hand with fingers splayed",
+    "code": "U+1F590"
+  },
+  {
+    "char": "✋",
+    "name": "raised hand",
+    "code": "U+270B"
+  },
+  {
+    "char": "🖖",
+    "name": "vulcan salute",
+    "code": "U+1F596"
+  },
+  {
+    "char": "🫱",
+    "name": "rightwards hand",
+    "code": "U+1FAF1"
+  },
+  {
+    "char": "🫲",
+    "name": "leftwards hand",
+    "code": "U+1FAF2"
+  },
+  {
+    "char": "🫳",
+    "name": "palm down hand",
+    "code": "U+1FAF3"
+  },
+  {
+    "char": "🫴",
+    "name": "palm up hand",
+    "code": "U+1FAF4"
+  },
+  {
+    "char": "🫷",
+    "name": "leftwards pushing hand",
+    "code": "U+1FAF7"
+  },
+  {
+    "char": "🫸",
+    "name": "rightwards pushing hand",
+    "code": "U+1FAF8"
+  },
+  {
+    "char": "👌",
+    "name": "OK hand",
+    "code": "U+1F44C"
+  },
+  {
+    "char": "🤌",
+    "name": "pinched fingers",
+    "code": "U+1F90C"
+  },
+  {
+    "char": "🤏",
+    "name": "pinching hand",
+    "code": "U+1F90F"
+  },
+  {
+    "char": "✌",
+    "name": "victory hand",
+    "code": "U+270C"
+  },
+  {
+    "char": "🤞",
+    "name": "crossed fingers",
+    "code": "U+1F91E"
+  },
+  {
+    "char": "🫰",
+    "name": "hand with index finger and thumb crossed",
+    "code": "U+1FAF0"
+  },
+  {
+    "char": "🤟",
+    "name": "love-you gesture",
+    "code": "U+1F91F"
+  },
+  {
+    "char": "🤘",
+    "name": "sign of the horns",
+    "code": "U+1F918"
+  },
+  {
+    "char": "🤙",
+    "name": "call me hand",
+    "code": "U+1F919"
+  },
+  {
+    "char": "👈",
+    "name": "backhand index pointing left",
+    "code": "U+1F448"
+  },
+  {
+    "char": "👉",
+    "name": "backhand index pointing right",
+    "code": "U+1F449"
+  },
+  {
+    "char": "👆",
+    "name": "backhand index pointing up",
+    "code": "U+1F446"
+  },
+  {
+    "char": "🖕",
+    "name": "middle finger",
+    "code": "U+1F595"
+  },
+  {
+    "char": "👇",
+    "name": "backhand index pointing down",
+    "code": "U+1F447"
+  },
+  {
+    "char": "☝",
+    "name": "index pointing up",
+    "code": "U+261D"
+  },
+  {
+    "char": "🫵",
+    "name": "index pointing at the viewer",
+    "code": "U+1FAF5"
+  },
+  {
+    "char": "👍",
+    "name": "thumbs up",
+    "code": "U+1F44D"
+  },
+  {
+    "char": "👎",
+    "name": "thumbs down",
+    "code": "U+1F44E"
+  },
+  {
+    "char": "✊",
+    "name": "raised fist",
+    "code": "U+270A"
+  },
+  {
+    "char": "👊",
+    "name": "oncoming fist",
+    "code": "U+1F44A"
+  },
+  {
+    "char": "🤛",
+    "name": "left-facing fist",
+    "code": "U+1F91B"
+  },
+  {
+    "char": "🤜",
+    "name": "right-facing fist",
+    "code": "U+1F91C"
+  },
+  {
+    "char": "👏",
+    "name": "clapping hands",
+    "code": "U+1F44F"
+  },
+  {
+    "char": "🙌",
+    "name": "raising hands",
+    "code": "U+1F64C"
+  },
+  {
+    "char": "🫶",
+    "name": "heart hands",
+    "code": "U+1FAF6"
+  },
+  {
+    "char": "👐",
+    "name": "open hands",
+    "code": "U+1F450"
+  },
+  {
+    "char": "🤲",
+    "name": "palms up together",
+    "code": "U+1F932"
+  },
+  {
+    "char": "🤝",
+    "name": "handshake",
+    "code": "U+1F91D"
+  },
+  {
+    "char": "🙏",
+    "name": "folded hands",
+    "code": "U+1F64F"
+  },
+  {
+    "char": "✍",
+    "name": "writing hand",
+    "code": "U+270D"
+  },
+  {
+    "char": "💅",
+    "name": "nail polish",
+    "code": "U+1F485"
+  },
+  {
+    "char": "🤳",
+    "name": "selfie",
+    "code": "U+1F933"
+  },
+  {
+    "char": "💪",
+    "name": "flexed biceps",
+    "code": "U+1F4AA"
+  },
+  {
+    "char": "🦾",
+    "name": "mechanical arm",
+    "code": "U+1F9BE"
+  },
+  {
+    "char": "🦿",
+    "name": "mechanical leg",
+    "code": "U+1F9BF"
+  },
+  {
+    "char": "🦵",
+    "name": "leg",
+    "code": "U+1F9B5"
+  },
+  {
+    "char": "🦶",
+    "name": "foot",
+    "code": "U+1F9B6"
+  },
+  {
+    "char": "👂",
+    "name": "ear",
+    "code": "U+1F442"
+  },
+  {
+    "char": "🦻",
+    "name": "ear with hearing aid",
+    "code": "U+1F9BB"
+  },
+  {
+    "char": "👃",
+    "name": "nose",
+    "code": "U+1F443"
+  },
+  {
+    "char": "🧠",
+    "name": "brain",
+    "code": "U+1F9E0"
+  },
+  {
+    "char": "🫀",
+    "name": "anatomical heart",
+    "code": "U+1FAC0"
+  },
+  {
+    "char": "🫁",
+    "name": "lungs",
+    "code": "U+1FAC1"
+  },
+  {
+    "char": "🦷",
+    "name": "tooth",
+    "code": "U+1F9B7"
+  },
+  {
+    "char": "🦴",
+    "name": "bone",
+    "code": "U+1F9B4"
+  },
+  {
+    "char": "👀",
+    "name": "eyes",
+    "code": "U+1F440"
+  },
+  {
+    "char": "👁",
+    "name": "eye",
+    "code": "U+1F441"
+  },
+  {
+    "char": "👅",
+    "name": "tongue",
+    "code": "U+1F445"
+  },
+  {
+    "char": "👄",
+    "name": "mouth",
+    "code": "U+1F444"
+  },
+  {
+    "char": "🫦",
+    "name": "biting lip",
+    "code": "U+1FAE6"
+  },
+  {
+    "char": "👶",
+    "name": "baby",
+    "code": "U+1F476"
+  },
+  {
+    "char": "🧒",
+    "name": "child",
+    "code": "U+1F9D2"
+  },
+  {
+    "char": "👦",
+    "name": "boy",
+    "code": "U+1F466"
+  },
+  {
+    "char": "👧",
+    "name": "girl",
+    "code": "U+1F467"
+  },
+  {
+    "char": "🧑",
+    "name": "person",
+    "code": "U+1F9D1"
+  },
+  {
+    "char": "👱",
+    "name": "person: blond hair",
+    "code": "U+1F471"
+  },
+  {
+    "char": "👨",
+    "name": "man",
+    "code": "U+1F468"
+  },
+  {
+    "char": "🧔",
+    "name": "person: beard",
+    "code": "U+1F9D4"
+  },
+  {
+    "char": "🧔‍♂️",
+    "name": "man: beard",
+    "code": "U+1F9D4 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧔‍♀️",
+    "name": "woman: beard",
+    "code": "U+1F9D4 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "👨‍🦰",
+    "name": "man: red hair",
+    "code": "U+1F468 U+200D U+1F9B0"
+  },
+  {
+    "char": "👨‍🦱",
+    "name": "man: curly hair",
+    "code": "U+1F468 U+200D U+1F9B1"
+  },
+  {
+    "char": "👨‍🦳",
+    "name": "man: white hair",
+    "code": "U+1F468 U+200D U+1F9B3"
+  },
+  {
+    "char": "👨‍🦲",
+    "name": "man: bald",
+    "code": "U+1F468 U+200D U+1F9B2"
+  },
+  {
+    "char": "👩",
+    "name": "woman",
+    "code": "U+1F469"
+  },
+  {
+    "char": "👩‍🦰",
+    "name": "woman: red hair",
+    "code": "U+1F469 U+200D U+1F9B0"
+  },
+  {
+    "char": "🧑‍🦰",
+    "name": "person: red hair",
+    "code": "U+1F9D1 U+200D U+1F9B0"
+  },
+  {
+    "char": "👩‍🦱",
+    "name": "woman: curly hair",
+    "code": "U+1F469 U+200D U+1F9B1"
+  },
+  {
+    "char": "🧑‍🦱",
+    "name": "person: curly hair",
+    "code": "U+1F9D1 U+200D U+1F9B1"
+  },
+  {
+    "char": "👩‍🦳",
+    "name": "woman: white hair",
+    "code": "U+1F469 U+200D U+1F9B3"
+  },
+  {
+    "char": "🧑‍🦳",
+    "name": "person: white hair",
+    "code": "U+1F9D1 U+200D U+1F9B3"
+  },
+  {
+    "char": "👩‍🦲",
+    "name": "woman: bald",
+    "code": "U+1F469 U+200D U+1F9B2"
+  },
+  {
+    "char": "🧑‍🦲",
+    "name": "person: bald",
+    "code": "U+1F9D1 U+200D U+1F9B2"
+  },
+  {
+    "char": "👱‍♀️",
+    "name": "woman: blond hair",
+    "code": "U+1F471 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "👱‍♂️",
+    "name": "man: blond hair",
+    "code": "U+1F471 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧓",
+    "name": "older person",
+    "code": "U+1F9D3"
+  },
+  {
+    "char": "👴",
+    "name": "old man",
+    "code": "U+1F474"
+  },
+  {
+    "char": "👵",
+    "name": "old woman",
+    "code": "U+1F475"
+  },
+  {
+    "char": "🙍",
+    "name": "person frowning",
+    "code": "U+1F64D"
+  },
+  {
+    "char": "🙍‍♂️",
+    "name": "man frowning",
+    "code": "U+1F64D U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🙍‍♀️",
+    "name": "woman frowning",
+    "code": "U+1F64D U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🙎",
+    "name": "person pouting",
+    "code": "U+1F64E"
+  },
+  {
+    "char": "🙎‍♂️",
+    "name": "man pouting",
+    "code": "U+1F64E U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🙎‍♀️",
+    "name": "woman pouting",
+    "code": "U+1F64E U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🙅",
+    "name": "person gesturing NO",
+    "code": "U+1F645"
+  },
+  {
+    "char": "🙅‍♂️",
+    "name": "man gesturing NO",
+    "code": "U+1F645 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🙅‍♀️",
+    "name": "woman gesturing NO",
+    "code": "U+1F645 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🙆",
+    "name": "person gesturing OK",
+    "code": "U+1F646"
+  },
+  {
+    "char": "🙆‍♂️",
+    "name": "man gesturing OK",
+    "code": "U+1F646 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🙆‍♀️",
+    "name": "woman gesturing OK",
+    "code": "U+1F646 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "💁",
+    "name": "person tipping hand",
+    "code": "U+1F481"
+  },
+  {
+    "char": "💁‍♂️",
+    "name": "man tipping hand",
+    "code": "U+1F481 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "💁‍♀️",
+    "name": "woman tipping hand",
+    "code": "U+1F481 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🙋",
+    "name": "person raising hand",
+    "code": "U+1F64B"
+  },
+  {
+    "char": "🙋‍♂️",
+    "name": "man raising hand",
+    "code": "U+1F64B U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🙋‍♀️",
+    "name": "woman raising hand",
+    "code": "U+1F64B U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧏",
+    "name": "deaf person",
+    "code": "U+1F9CF"
+  },
+  {
+    "char": "🧏‍♂️",
+    "name": "deaf man",
+    "code": "U+1F9CF U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧏‍♀️",
+    "name": "deaf woman",
+    "code": "U+1F9CF U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🙇",
+    "name": "person bowing",
+    "code": "U+1F647"
+  },
+  {
+    "char": "🙇‍♂️",
+    "name": "man bowing",
+    "code": "U+1F647 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🙇‍♀️",
+    "name": "woman bowing",
+    "code": "U+1F647 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤦",
+    "name": "person facepalming",
+    "code": "U+1F926"
+  },
+  {
+    "char": "🤦‍♂️",
+    "name": "man facepalming",
+    "code": "U+1F926 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤦‍♀️",
+    "name": "woman facepalming",
+    "code": "U+1F926 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤷",
+    "name": "person shrugging",
+    "code": "U+1F937"
+  },
+  {
+    "char": "🤷‍♂️",
+    "name": "man shrugging",
+    "code": "U+1F937 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤷‍♀️",
+    "name": "woman shrugging",
+    "code": "U+1F937 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧑‍⚕️",
+    "name": "health worker",
+    "code": "U+1F9D1 U+200D U+2695 U+FE0F"
+  },
+  {
+    "char": "👨‍⚕️",
+    "name": "man health worker",
+    "code": "U+1F468 U+200D U+2695 U+FE0F"
+  },
+  {
+    "char": "👩‍⚕️",
+    "name": "woman health worker",
+    "code": "U+1F469 U+200D U+2695 U+FE0F"
+  },
+  {
+    "char": "🧑‍🎓",
+    "name": "student",
+    "code": "U+1F9D1 U+200D U+1F393"
+  },
+  {
+    "char": "👨‍🎓",
+    "name": "man student",
+    "code": "U+1F468 U+200D U+1F393"
+  },
+  {
+    "char": "👩‍🎓",
+    "name": "woman student",
+    "code": "U+1F469 U+200D U+1F393"
+  },
+  {
+    "char": "🧑‍🏫",
+    "name": "teacher",
+    "code": "U+1F9D1 U+200D U+1F3EB"
+  },
+  {
+    "char": "👨‍🏫",
+    "name": "man teacher",
+    "code": "U+1F468 U+200D U+1F3EB"
+  },
+  {
+    "char": "👩‍🏫",
+    "name": "woman teacher",
+    "code": "U+1F469 U+200D U+1F3EB"
+  },
+  {
+    "char": "🧑‍⚖️",
+    "name": "judge",
+    "code": "U+1F9D1 U+200D U+2696 U+FE0F"
+  },
+  {
+    "char": "👨‍⚖️",
+    "name": "man judge",
+    "code": "U+1F468 U+200D U+2696 U+FE0F"
+  },
+  {
+    "char": "👩‍⚖️",
+    "name": "woman judge",
+    "code": "U+1F469 U+200D U+2696 U+FE0F"
+  },
+  {
+    "char": "🧑‍🌾",
+    "name": "farmer",
+    "code": "U+1F9D1 U+200D U+1F33E"
+  },
+  {
+    "char": "👨‍🌾",
+    "name": "man farmer",
+    "code": "U+1F468 U+200D U+1F33E"
+  },
+  {
+    "char": "👩‍🌾",
+    "name": "woman farmer",
+    "code": "U+1F469 U+200D U+1F33E"
+  },
+  {
+    "char": "🧑‍🍳",
+    "name": "cook",
+    "code": "U+1F9D1 U+200D U+1F373"
+  },
+  {
+    "char": "👨‍🍳",
+    "name": "man cook",
+    "code": "U+1F468 U+200D U+1F373"
+  },
+  {
+    "char": "👩‍🍳",
+    "name": "woman cook",
+    "code": "U+1F469 U+200D U+1F373"
+  },
+  {
+    "char": "🧑‍🔧",
+    "name": "mechanic",
+    "code": "U+1F9D1 U+200D U+1F527"
+  },
+  {
+    "char": "👨‍🔧",
+    "name": "man mechanic",
+    "code": "U+1F468 U+200D U+1F527"
+  },
+  {
+    "char": "👩‍🔧",
+    "name": "woman mechanic",
+    "code": "U+1F469 U+200D U+1F527"
+  },
+  {
+    "char": "🧑‍🏭",
+    "name": "factory worker",
+    "code": "U+1F9D1 U+200D U+1F3ED"
+  },
+  {
+    "char": "👨‍🏭",
+    "name": "man factory worker",
+    "code": "U+1F468 U+200D U+1F3ED"
+  },
+  {
+    "char": "👩‍🏭",
+    "name": "woman factory worker",
+    "code": "U+1F469 U+200D U+1F3ED"
+  },
+  {
+    "char": "🧑‍💼",
+    "name": "office worker",
+    "code": "U+1F9D1 U+200D U+1F4BC"
+  },
+  {
+    "char": "👨‍💼",
+    "name": "man office worker",
+    "code": "U+1F468 U+200D U+1F4BC"
+  },
+  {
+    "char": "👩‍💼",
+    "name": "woman office worker",
+    "code": "U+1F469 U+200D U+1F4BC"
+  },
+  {
+    "char": "🧑‍🔬",
+    "name": "scientist",
+    "code": "U+1F9D1 U+200D U+1F52C"
+  },
+  {
+    "char": "👨‍🔬",
+    "name": "man scientist",
+    "code": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "char": "👩‍🔬",
+    "name": "woman scientist",
+    "code": "U+1F469 U+200D U+1F52C"
+  },
+  {
+    "char": "🧑‍💻",
+    "name": "technologist",
+    "code": "U+1F9D1 U+200D U+1F4BB"
+  },
+  {
+    "char": "👨‍💻",
+    "name": "man technologist",
+    "code": "U+1F468 U+200D U+1F4BB"
+  },
+  {
+    "char": "👩‍💻",
+    "name": "woman technologist",
+    "code": "U+1F469 U+200D U+1F4BB"
+  },
+  {
+    "char": "🧑‍🎤",
+    "name": "singer",
+    "code": "U+1F9D1 U+200D U+1F3A4"
+  },
+  {
+    "char": "👨‍🎤",
+    "name": "man singer",
+    "code": "U+1F468 U+200D U+1F3A4"
+  },
+  {
+    "char": "👩‍🎤",
+    "name": "woman singer",
+    "code": "U+1F469 U+200D U+1F3A4"
+  },
+  {
+    "char": "🧑‍🎨",
+    "name": "artist",
+    "code": "U+1F9D1 U+200D U+1F3A8"
+  },
+  {
+    "char": "👨‍🎨",
+    "name": "man artist",
+    "code": "U+1F468 U+200D U+1F3A8"
+  },
+  {
+    "char": "👩‍🎨",
+    "name": "woman artist",
+    "code": "U+1F469 U+200D U+1F3A8"
+  },
+  {
+    "char": "🧑‍✈️",
+    "name": "pilot",
+    "code": "U+1F9D1 U+200D U+2708 U+FE0F"
+  },
+  {
+    "char": "👨‍✈️",
+    "name": "man pilot",
+    "code": "U+1F468 U+200D U+2708 U+FE0F"
+  },
+  {
+    "char": "👩‍✈️",
+    "name": "woman pilot",
+    "code": "U+1F469 U+200D U+2708 U+FE0F"
+  },
+  {
+    "char": "🧑‍🚀",
+    "name": "astronaut",
+    "code": "U+1F9D1 U+200D U+1F680"
+  },
+  {
+    "char": "👨‍🚀",
+    "name": "man astronaut",
+    "code": "U+1F468 U+200D U+1F680"
+  },
+  {
+    "char": "👩‍🚀",
+    "name": "woman astronaut",
+    "code": "U+1F469 U+200D U+1F680"
+  },
+  {
+    "char": "🧑‍🚒",
+    "name": "firefighter",
+    "code": "U+1F9D1 U+200D U+1F692"
+  },
+  {
+    "char": "👨‍🚒",
+    "name": "man firefighter",
+    "code": "U+1F468 U+200D U+1F692"
+  },
+  {
+    "char": "👩‍🚒",
+    "name": "woman firefighter",
+    "code": "U+1F469 U+200D U+1F692"
+  },
+  {
+    "char": "👮",
+    "name": "police officer",
+    "code": "U+1F46E"
+  },
+  {
+    "char": "👮‍♂️",
+    "name": "man police officer",
+    "code": "U+1F46E U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "👮‍♀️",
+    "name": "woman police officer",
+    "code": "U+1F46E U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🕵",
+    "name": "detective",
+    "code": "U+1F575"
+  },
+  {
+    "char": "🕵️‍♂️",
+    "name": "man detective",
+    "code": "U+1F575 U+FE0F U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🕵️‍♀️",
+    "name": "woman detective",
+    "code": "U+1F575 U+FE0F U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "💂",
+    "name": "guard",
+    "code": "U+1F482"
+  },
+  {
+    "char": "💂‍♂️",
+    "name": "man guard",
+    "code": "U+1F482 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "💂‍♀️",
+    "name": "woman guard",
+    "code": "U+1F482 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🥷",
+    "name": "ninja",
+    "code": "U+1F977"
+  },
+  {
+    "char": "👷",
+    "name": "construction worker",
+    "code": "U+1F477"
+  },
+  {
+    "char": "👷‍♂️",
+    "name": "man construction worker",
+    "code": "U+1F477 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "👷‍♀️",
+    "name": "woman construction worker",
+    "code": "U+1F477 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🫅",
+    "name": "person with crown",
+    "code": "U+1FAC5"
+  },
+  {
+    "char": "🤴",
+    "name": "prince",
+    "code": "U+1F934"
+  },
+  {
+    "char": "👸",
+    "name": "princess",
+    "code": "U+1F478"
+  },
+  {
+    "char": "👳",
+    "name": "person wearing turban",
+    "code": "U+1F473"
+  },
+  {
+    "char": "👳‍♂️",
+    "name": "man wearing turban",
+    "code": "U+1F473 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "👳‍♀️",
+    "name": "woman wearing turban",
+    "code": "U+1F473 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "👲",
+    "name": "person with skullcap",
+    "code": "U+1F472"
+  },
+  {
+    "char": "🧕",
+    "name": "woman with headscarf",
+    "code": "U+1F9D5"
+  },
+  {
+    "char": "🤵",
+    "name": "person in tuxedo",
+    "code": "U+1F935"
+  },
+  {
+    "char": "🤵‍♂️",
+    "name": "man in tuxedo",
+    "code": "U+1F935 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤵‍♀️",
+    "name": "woman in tuxedo",
+    "code": "U+1F935 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "👰",
+    "name": "person with veil",
+    "code": "U+1F470"
+  },
+  {
+    "char": "👰‍♂️",
+    "name": "man with veil",
+    "code": "U+1F470 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "👰‍♀️",
+    "name": "woman with veil",
+    "code": "U+1F470 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤰",
+    "name": "pregnant woman",
+    "code": "U+1F930"
+  },
+  {
+    "char": "🫃",
+    "name": "pregnant man",
+    "code": "U+1FAC3"
+  },
+  {
+    "char": "🫄",
+    "name": "pregnant person",
+    "code": "U+1FAC4"
+  },
+  {
+    "char": "🤱",
+    "name": "breast-feeding",
+    "code": "U+1F931"
+  },
+  {
+    "char": "👩‍🍼",
+    "name": "woman feeding baby",
+    "code": "U+1F469 U+200D U+1F37C"
+  },
+  {
+    "char": "👨‍🍼",
+    "name": "man feeding baby",
+    "code": "U+1F468 U+200D U+1F37C"
+  },
+  {
+    "char": "🧑‍🍼",
+    "name": "person feeding baby",
+    "code": "U+1F9D1 U+200D U+1F37C"
+  },
+  {
+    "char": "👼",
+    "name": "baby angel",
+    "code": "U+1F47C"
+  },
+  {
+    "char": "🎅",
+    "name": "Santa Claus",
+    "code": "U+1F385"
+  },
+  {
+    "char": "🤶",
+    "name": "Mrs. Claus",
+    "code": "U+1F936"
+  },
+  {
+    "char": "🧑‍🎄",
+    "name": "Mx Claus",
+    "code": "U+1F9D1 U+200D U+1F384"
+  },
+  {
+    "char": "🦸",
+    "name": "superhero",
+    "code": "U+1F9B8"
+  },
+  {
+    "char": "🦸‍♂️",
+    "name": "man superhero",
+    "code": "U+1F9B8 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🦸‍♀️",
+    "name": "woman superhero",
+    "code": "U+1F9B8 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🦹",
+    "name": "supervillain",
+    "code": "U+1F9B9"
+  },
+  {
+    "char": "🦹‍♂️",
+    "name": "man supervillain",
+    "code": "U+1F9B9 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🦹‍♀️",
+    "name": "woman supervillain",
+    "code": "U+1F9B9 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧙",
+    "name": "mage",
+    "code": "U+1F9D9"
+  },
+  {
+    "char": "🧙‍♂️",
+    "name": "man mage",
+    "code": "U+1F9D9 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧙‍♀️",
+    "name": "woman mage",
+    "code": "U+1F9D9 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧚",
+    "name": "fairy",
+    "code": "U+1F9DA"
+  },
+  {
+    "char": "🧚‍♂️",
+    "name": "man fairy",
+    "code": "U+1F9DA U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧚‍♀️",
+    "name": "woman fairy",
+    "code": "U+1F9DA U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧛",
+    "name": "vampire",
+    "code": "U+1F9DB"
+  },
+  {
+    "char": "🧛‍♂️",
+    "name": "man vampire",
+    "code": "U+1F9DB U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧛‍♀️",
+    "name": "woman vampire",
+    "code": "U+1F9DB U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧜",
+    "name": "merperson",
+    "code": "U+1F9DC"
+  },
+  {
+    "char": "🧜‍♂️",
+    "name": "merman",
+    "code": "U+1F9DC U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧜‍♀️",
+    "name": "mermaid",
+    "code": "U+1F9DC U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧝",
+    "name": "elf",
+    "code": "U+1F9DD"
+  },
+  {
+    "char": "🧝‍♂️",
+    "name": "man elf",
+    "code": "U+1F9DD U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧝‍♀️",
+    "name": "woman elf",
+    "code": "U+1F9DD U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧞",
+    "name": "genie",
+    "code": "U+1F9DE"
+  },
+  {
+    "char": "🧞‍♂️",
+    "name": "man genie",
+    "code": "U+1F9DE U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧞‍♀️",
+    "name": "woman genie",
+    "code": "U+1F9DE U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧟",
+    "name": "zombie",
+    "code": "U+1F9DF"
+  },
+  {
+    "char": "🧟‍♂️",
+    "name": "man zombie",
+    "code": "U+1F9DF U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧟‍♀️",
+    "name": "woman zombie",
+    "code": "U+1F9DF U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧌",
+    "name": "troll",
+    "code": "U+1F9CC"
+  },
+  {
+    "char": "🫈",
+    "name": "⊛ hairy creature",
+    "code": "U+1FAC8"
+  },
+  {
+    "char": "💆",
+    "name": "person getting massage",
+    "code": "U+1F486"
+  },
+  {
+    "char": "💆‍♂️",
+    "name": "man getting massage",
+    "code": "U+1F486 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "💆‍♀️",
+    "name": "woman getting massage",
+    "code": "U+1F486 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "💇",
+    "name": "person getting haircut",
+    "code": "U+1F487"
+  },
+  {
+    "char": "💇‍♂️",
+    "name": "man getting haircut",
+    "code": "U+1F487 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "💇‍♀️",
+    "name": "woman getting haircut",
+    "code": "U+1F487 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🚶",
+    "name": "person walking",
+    "code": "U+1F6B6"
+  },
+  {
+    "char": "🚶‍♂️",
+    "name": "man walking",
+    "code": "U+1F6B6 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🚶‍♀️",
+    "name": "woman walking",
+    "code": "U+1F6B6 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧍",
+    "name": "person standing",
+    "code": "U+1F9CD"
+  },
+  {
+    "char": "🧍‍♂️",
+    "name": "man standing",
+    "code": "U+1F9CD U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧍‍♀️",
+    "name": "woman standing",
+    "code": "U+1F9CD U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧎",
+    "name": "person kneeling",
+    "code": "U+1F9CE"
+  },
+  {
+    "char": "🧎‍♂️",
+    "name": "man kneeling",
+    "code": "U+1F9CE U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧎‍♀️",
+    "name": "woman kneeling",
+    "code": "U+1F9CE U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧑‍🦯",
+    "name": "person with white cane",
+    "code": "U+1F9D1 U+200D U+1F9AF"
+  },
+  {
+    "char": "👨‍🦯",
+    "name": "man with white cane",
+    "code": "U+1F468 U+200D U+1F9AF"
+  },
+  {
+    "char": "👩‍🦯",
+    "name": "woman with white cane",
+    "code": "U+1F469 U+200D U+1F9AF"
+  },
+  {
+    "char": "🧑‍🦼",
+    "name": "person in motorized wheelchair",
+    "code": "U+1F9D1 U+200D U+1F9BC"
+  },
+  {
+    "char": "👨‍🦼",
+    "name": "man in motorized wheelchair",
+    "code": "U+1F468 U+200D U+1F9BC"
+  },
+  {
+    "char": "👩‍🦼",
+    "name": "woman in motorized wheelchair",
+    "code": "U+1F469 U+200D U+1F9BC"
+  },
+  {
+    "char": "🧑‍🦽",
+    "name": "person in manual wheelchair",
+    "code": "U+1F9D1 U+200D U+1F9BD"
+  },
+  {
+    "char": "👨‍🦽",
+    "name": "man in manual wheelchair",
+    "code": "U+1F468 U+200D U+1F9BD"
+  },
+  {
+    "char": "👩‍🦽",
+    "name": "woman in manual wheelchair",
+    "code": "U+1F469 U+200D U+1F9BD"
+  },
+  {
+    "char": "🏃",
+    "name": "person running",
+    "code": "U+1F3C3"
+  },
+  {
+    "char": "🏃‍♂️",
+    "name": "man running",
+    "code": "U+1F3C3 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🏃‍♀️",
+    "name": "woman running",
+    "code": "U+1F3C3 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧑‍🩰",
+    "name": "⊛ ballet dancer",
+    "code": "U+1F9D1 U+200D U+1FA70"
+  },
+  {
+    "char": "💃",
+    "name": "woman dancing",
+    "code": "U+1F483"
+  },
+  {
+    "char": "🕺",
+    "name": "man dancing",
+    "code": "U+1F57A"
+  },
+  {
+    "char": "🕴",
+    "name": "person in suit levitating",
+    "code": "U+1F574"
+  },
+  {
+    "char": "👯",
+    "name": "people with bunny ears",
+    "code": "U+1F46F"
+  },
+  {
+    "char": "👯‍♂️",
+    "name": "men with bunny ears",
+    "code": "U+1F46F U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "👯‍♀️",
+    "name": "women with bunny ears",
+    "code": "U+1F46F U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧖",
+    "name": "person in steamy room",
+    "code": "U+1F9D6"
+  },
+  {
+    "char": "🧖‍♂️",
+    "name": "man in steamy room",
+    "code": "U+1F9D6 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧖‍♀️",
+    "name": "woman in steamy room",
+    "code": "U+1F9D6 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧗",
+    "name": "person climbing",
+    "code": "U+1F9D7"
+  },
+  {
+    "char": "🧗‍♂️",
+    "name": "man climbing",
+    "code": "U+1F9D7 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧗‍♀️",
+    "name": "woman climbing",
+    "code": "U+1F9D7 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤺",
+    "name": "person fencing",
+    "code": "U+1F93A"
+  },
+  {
+    "char": "🏇",
+    "name": "horse racing",
+    "code": "U+1F3C7"
+  },
+  {
+    "char": "⛷",
+    "name": "skier",
+    "code": "U+26F7"
+  },
+  {
+    "char": "🏂",
+    "name": "snowboarder",
+    "code": "U+1F3C2"
+  },
+  {
+    "char": "🏌",
+    "name": "person golfing",
+    "code": "U+1F3CC"
+  },
+  {
+    "char": "🏌️‍♂️",
+    "name": "man golfing",
+    "code": "U+1F3CC U+FE0F U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🏌️‍♀️",
+    "name": "woman golfing",
+    "code": "U+1F3CC U+FE0F U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🏄",
+    "name": "person surfing",
+    "code": "U+1F3C4"
+  },
+  {
+    "char": "🏄‍♂️",
+    "name": "man surfing",
+    "code": "U+1F3C4 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🏄‍♀️",
+    "name": "woman surfing",
+    "code": "U+1F3C4 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🚣",
+    "name": "person rowing boat",
+    "code": "U+1F6A3"
+  },
+  {
+    "char": "🚣‍♂️",
+    "name": "man rowing boat",
+    "code": "U+1F6A3 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🚣‍♀️",
+    "name": "woman rowing boat",
+    "code": "U+1F6A3 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🏊",
+    "name": "person swimming",
+    "code": "U+1F3CA"
+  },
+  {
+    "char": "🏊‍♂️",
+    "name": "man swimming",
+    "code": "U+1F3CA U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🏊‍♀️",
+    "name": "woman swimming",
+    "code": "U+1F3CA U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "⛹",
+    "name": "person bouncing ball",
+    "code": "U+26F9"
+  },
+  {
+    "char": "⛹️‍♂️",
+    "name": "man bouncing ball",
+    "code": "U+26F9 U+FE0F U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "⛹️‍♀️",
+    "name": "woman bouncing ball",
+    "code": "U+26F9 U+FE0F U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🏋",
+    "name": "person lifting weights",
+    "code": "U+1F3CB"
+  },
+  {
+    "char": "🏋️‍♂️",
+    "name": "man lifting weights",
+    "code": "U+1F3CB U+FE0F U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🏋️‍♀️",
+    "name": "woman lifting weights",
+    "code": "U+1F3CB U+FE0F U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🚴",
+    "name": "person biking",
+    "code": "U+1F6B4"
+  },
+  {
+    "char": "🚴‍♂️",
+    "name": "man biking",
+    "code": "U+1F6B4 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🚴‍♀️",
+    "name": "woman biking",
+    "code": "U+1F6B4 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🚵",
+    "name": "person mountain biking",
+    "code": "U+1F6B5"
+  },
+  {
+    "char": "🚵‍♂️",
+    "name": "man mountain biking",
+    "code": "U+1F6B5 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🚵‍♀️",
+    "name": "woman mountain biking",
+    "code": "U+1F6B5 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤸",
+    "name": "person cartwheeling",
+    "code": "U+1F938"
+  },
+  {
+    "char": "🤸‍♂️",
+    "name": "man cartwheeling",
+    "code": "U+1F938 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤸‍♀️",
+    "name": "woman cartwheeling",
+    "code": "U+1F938 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤼",
+    "name": "people wrestling",
+    "code": "U+1F93C"
+  },
+  {
+    "char": "🤼‍♂️",
+    "name": "men wrestling",
+    "code": "U+1F93C U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤼‍♀️",
+    "name": "women wrestling",
+    "code": "U+1F93C U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤽",
+    "name": "person playing water polo",
+    "code": "U+1F93D"
+  },
+  {
+    "char": "🤽‍♂️",
+    "name": "man playing water polo",
+    "code": "U+1F93D U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤽‍♀️",
+    "name": "woman playing water polo",
+    "code": "U+1F93D U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤾",
+    "name": "person playing handball",
+    "code": "U+1F93E"
+  },
+  {
+    "char": "🤾‍♂️",
+    "name": "man playing handball",
+    "code": "U+1F93E U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤾‍♀️",
+    "name": "woman playing handball",
+    "code": "U+1F93E U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🤹",
+    "name": "person juggling",
+    "code": "U+1F939"
+  },
+  {
+    "char": "🤹‍♂️",
+    "name": "man juggling",
+    "code": "U+1F939 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🤹‍♀️",
+    "name": "woman juggling",
+    "code": "U+1F939 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🧘",
+    "name": "person in lotus position",
+    "code": "U+1F9D8"
+  },
+  {
+    "char": "🧘‍♂️",
+    "name": "man in lotus position",
+    "code": "U+1F9D8 U+200D U+2642 U+FE0F"
+  },
+  {
+    "char": "🧘‍♀️",
+    "name": "woman in lotus position",
+    "code": "U+1F9D8 U+200D U+2640 U+FE0F"
+  },
+  {
+    "char": "🛀",
+    "name": "person taking bath",
+    "code": "U+1F6C0"
+  },
+  {
+    "char": "🛌",
+    "name": "person in bed",
+    "code": "U+1F6CC"
+  },
+  {
+    "char": "🧑‍🤝‍🧑",
+    "name": "people holding hands",
+    "code": "U+1F9D1 U+200D U+1F91D U+200D U+1F9D1"
+  },
+  {
+    "char": "👭",
+    "name": "women holding hands",
+    "code": "U+1F46D"
+  },
+  {
+    "char": "👫",
+    "name": "woman and man holding hands",
+    "code": "U+1F46B"
+  },
+  {
+    "char": "👬",
+    "name": "men holding hands",
+    "code": "U+1F46C"
+  },
+  {
+    "char": "💏",
+    "name": "kiss",
+    "code": "U+1F48F"
+  },
+  {
+    "char": "👩‍❤️‍💋‍👨",
+    "name": "kiss: woman, man",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468"
+  },
+  {
+    "char": "👨‍❤️‍💋‍👨",
+    "name": "kiss: man, man",
+    "code": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468"
+  },
+  {
+    "char": "👩‍❤️‍💋‍👩",
+    "name": "kiss: woman, woman",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469"
+  },
+  {
+    "char": "💑",
+    "name": "couple with heart",
+    "code": "U+1F491"
+  },
+  {
+    "char": "👩‍❤️‍👨",
+    "name": "couple with heart: woman, man",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468"
+  },
+  {
+    "char": "👨‍❤️‍👨",
+    "name": "couple with heart: man, man",
+    "code": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468"
+  },
+  {
+    "char": "👩‍❤️‍👩",
+    "name": "couple with heart: woman, woman",
+    "code": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469"
+  },
+  {
+    "char": "👨‍👩‍👦",
+    "name": "family: man, woman, boy",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👩‍👧",
+    "name": "family: man, woman, girl",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F467"
+  },
+  {
+    "char": "👨‍👩‍👧‍👦",
+    "name": "family: man, woman, girl, boy",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👩‍👦‍👦",
+    "name": "family: man, woman, boy, boy",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👩‍👧‍👧",
+    "name": "family: man, woman, girl, girl",
+    "code": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467"
+  },
+  {
+    "char": "👨‍👨‍👦",
+    "name": "family: man, man, boy",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👨‍👧",
+    "name": "family: man, man, girl",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F467"
+  },
+  {
+    "char": "👨‍👨‍👧‍👦",
+    "name": "family: man, man, girl, boy",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👨‍👦‍👦",
+    "name": "family: man, man, boy, boy",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👨‍👧‍👧",
+    "name": "family: man, man, girl, girl",
+    "code": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467"
+  },
+  {
+    "char": "👩‍👩‍👦",
+    "name": "family: woman, woman, boy",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F466"
+  },
+  {
+    "char": "👩‍👩‍👧",
+    "name": "family: woman, woman, girl",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F467"
+  },
+  {
+    "char": "👩‍👩‍👧‍👦",
+    "name": "family: woman, woman, girl, boy",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466"
+  },
+  {
+    "char": "👩‍👩‍👦‍👦",
+    "name": "family: woman, woman, boy, boy",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "char": "👩‍👩‍👧‍👧",
+    "name": "family: woman, woman, girl, girl",
+    "code": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467"
+  },
+  {
+    "char": "👨‍👦",
+    "name": "family: man, boy",
+    "code": "U+1F468 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👦‍👦",
+    "name": "family: man, boy, boy",
+    "code": "U+1F468 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👧",
+    "name": "family: man, girl",
+    "code": "U+1F468 U+200D U+1F467"
+  },
+  {
+    "char": "👨‍👧‍👦",
+    "name": "family: man, girl, boy",
+    "code": "U+1F468 U+200D U+1F467 U+200D U+1F466"
+  },
+  {
+    "char": "👨‍👧‍👧",
+    "name": "family: man, girl, girl",
+    "code": "U+1F468 U+200D U+1F467 U+200D U+1F467"
+  },
+  {
+    "char": "👩‍👦",
+    "name": "family: woman, boy",
+    "code": "U+1F469 U+200D U+1F466"
+  },
+  {
+    "char": "👩‍👦‍👦",
+    "name": "family: woman, boy, boy",
+    "code": "U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "char": "👩‍👧",
+    "name": "family: woman, girl",
+    "code": "U+1F469 U+200D U+1F467"
+  },
+  {
+    "char": "👩‍👧‍👦",
+    "name": "family: woman, girl, boy",
+    "code": "U+1F469 U+200D U+1F467 U+200D U+1F466"
+  },
+  {
+    "char": "👩‍👧‍👧",
+    "name": "family: woman, girl, girl",
+    "code": "U+1F469 U+200D U+1F467 U+200D U+1F467"
+  },
+  {
+    "char": "🗣",
+    "name": "speaking head",
+    "code": "U+1F5E3"
+  },
+  {
+    "char": "👤",
+    "name": "bust in silhouette",
+    "code": "U+1F464"
+  },
+  {
+    "char": "👥",
+    "name": "busts in silhouette",
+    "code": "U+1F465"
+  },
+  {
+    "char": "🫂",
+    "name": "people hugging",
+    "code": "U+1FAC2"
+  },
+  {
+    "char": "👪",
+    "name": "family",
+    "code": "U+1F46A"
+  },
+  {
+    "char": "🧑‍🧑‍🧒",
+    "name": "family: adult, adult, child",
+    "code": "U+1F9D1 U+200D U+1F9D1 U+200D U+1F9D2"
+  },
+  {
+    "char": "🧑‍🧑‍🧒‍🧒",
+    "name": "family: adult, adult, child, child",
+    "code": "U+1F9D1 U+200D U+1F9D1 U+200D U+1F9D2 U+200D U+1F9D2"
+  },
+  {
+    "char": "🧑‍🧒",
+    "name": "family: adult, child",
+    "code": "U+1F9D1 U+200D U+1F9D2"
+  },
+  {
+    "char": "🧑‍🧒‍🧒",
+    "name": "family: adult, child, child",
+    "code": "U+1F9D1 U+200D U+1F9D2 U+200D U+1F9D2"
+  },
+  {
+    "char": "👣",
+    "name": "footprints",
+    "code": "U+1F463"
+  },
+  {
+    "char": "🫆",
+    "name": "fingerprint",
+    "code": "U+1FAC6"
+  }
+]

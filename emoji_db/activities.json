@@ -1,0 +1,427 @@
+[
+  {
+    "char": "🎃",
+    "name": "jack-o-lantern",
+    "code": "U+1F383"
+  },
+  {
+    "char": "🎄",
+    "name": "Christmas tree",
+    "code": "U+1F384"
+  },
+  {
+    "char": "🎆",
+    "name": "fireworks",
+    "code": "U+1F386"
+  },
+  {
+    "char": "🎇",
+    "name": "sparkler",
+    "code": "U+1F387"
+  },
+  {
+    "char": "🧨",
+    "name": "firecracker",
+    "code": "U+1F9E8"
+  },
+  {
+    "char": "✨",
+    "name": "sparkles",
+    "code": "U+2728"
+  },
+  {
+    "char": "🎈",
+    "name": "balloon",
+    "code": "U+1F388"
+  },
+  {
+    "char": "🎉",
+    "name": "party popper",
+    "code": "U+1F389"
+  },
+  {
+    "char": "🎊",
+    "name": "confetti ball",
+    "code": "U+1F38A"
+  },
+  {
+    "char": "🎋",
+    "name": "tanabata tree",
+    "code": "U+1F38B"
+  },
+  {
+    "char": "🎍",
+    "name": "pine decoration",
+    "code": "U+1F38D"
+  },
+  {
+    "char": "🎎",
+    "name": "Japanese dolls",
+    "code": "U+1F38E"
+  },
+  {
+    "char": "🎏",
+    "name": "carp streamer",
+    "code": "U+1F38F"
+  },
+  {
+    "char": "🎐",
+    "name": "wind chime",
+    "code": "U+1F390"
+  },
+  {
+    "char": "🎑",
+    "name": "moon viewing ceremony",
+    "code": "U+1F391"
+  },
+  {
+    "char": "🧧",
+    "name": "red envelope",
+    "code": "U+1F9E7"
+  },
+  {
+    "char": "🎀",
+    "name": "ribbon",
+    "code": "U+1F380"
+  },
+  {
+    "char": "🎁",
+    "name": "wrapped gift",
+    "code": "U+1F381"
+  },
+  {
+    "char": "🎗",
+    "name": "reminder ribbon",
+    "code": "U+1F397"
+  },
+  {
+    "char": "🎟",
+    "name": "admission tickets",
+    "code": "U+1F39F"
+  },
+  {
+    "char": "🎫",
+    "name": "ticket",
+    "code": "U+1F3AB"
+  },
+  {
+    "char": "🎖",
+    "name": "military medal",
+    "code": "U+1F396"
+  },
+  {
+    "char": "🏆",
+    "name": "trophy",
+    "code": "U+1F3C6"
+  },
+  {
+    "char": "🏅",
+    "name": "sports medal",
+    "code": "U+1F3C5"
+  },
+  {
+    "char": "🥇",
+    "name": "1st place medal",
+    "code": "U+1F947"
+  },
+  {
+    "char": "🥈",
+    "name": "2nd place medal",
+    "code": "U+1F948"
+  },
+  {
+    "char": "🥉",
+    "name": "3rd place medal",
+    "code": "U+1F949"
+  },
+  {
+    "char": "⚽",
+    "name": "soccer ball",
+    "code": "U+26BD"
+  },
+  {
+    "char": "⚾",
+    "name": "baseball",
+    "code": "U+26BE"
+  },
+  {
+    "char": "🥎",
+    "name": "softball",
+    "code": "U+1F94E"
+  },
+  {
+    "char": "🏀",
+    "name": "basketball",
+    "code": "U+1F3C0"
+  },
+  {
+    "char": "🏐",
+    "name": "volleyball",
+    "code": "U+1F3D0"
+  },
+  {
+    "char": "🏈",
+    "name": "american football",
+    "code": "U+1F3C8"
+  },
+  {
+    "char": "🏉",
+    "name": "rugby football",
+    "code": "U+1F3C9"
+  },
+  {
+    "char": "🎾",
+    "name": "tennis",
+    "code": "U+1F3BE"
+  },
+  {
+    "char": "🥏",
+    "name": "flying disc",
+    "code": "U+1F94F"
+  },
+  {
+    "char": "🎳",
+    "name": "bowling",
+    "code": "U+1F3B3"
+  },
+  {
+    "char": "🏏",
+    "name": "cricket game",
+    "code": "U+1F3CF"
+  },
+  {
+    "char": "🏑",
+    "name": "field hockey",
+    "code": "U+1F3D1"
+  },
+  {
+    "char": "🏒",
+    "name": "ice hockey",
+    "code": "U+1F3D2"
+  },
+  {
+    "char": "🥍",
+    "name": "lacrosse",
+    "code": "U+1F94D"
+  },
+  {
+    "char": "🏓",
+    "name": "ping pong",
+    "code": "U+1F3D3"
+  },
+  {
+    "char": "🏸",
+    "name": "badminton",
+    "code": "U+1F3F8"
+  },
+  {
+    "char": "🥊",
+    "name": "boxing glove",
+    "code": "U+1F94A"
+  },
+  {
+    "char": "🥋",
+    "name": "martial arts uniform",
+    "code": "U+1F94B"
+  },
+  {
+    "char": "🥅",
+    "name": "goal net",
+    "code": "U+1F945"
+  },
+  {
+    "char": "⛳",
+    "name": "flag in hole",
+    "code": "U+26F3"
+  },
+  {
+    "char": "⛸",
+    "name": "ice skate",
+    "code": "U+26F8"
+  },
+  {
+    "char": "🎣",
+    "name": "fishing pole",
+    "code": "U+1F3A3"
+  },
+  {
+    "char": "🤿",
+    "name": "diving mask",
+    "code": "U+1F93F"
+  },
+  {
+    "char": "🎽",
+    "name": "running shirt",
+    "code": "U+1F3BD"
+  },
+  {
+    "char": "🎿",
+    "name": "skis",
+    "code": "U+1F3BF"
+  },
+  {
+    "char": "🛷",
+    "name": "sled",
+    "code": "U+1F6F7"
+  },
+  {
+    "char": "🥌",
+    "name": "curling stone",
+    "code": "U+1F94C"
+  },
+  {
+    "char": "🎯",
+    "name": "bullseye",
+    "code": "U+1F3AF"
+  },
+  {
+    "char": "🪀",
+    "name": "yo-yo",
+    "code": "U+1FA80"
+  },
+  {
+    "char": "🪁",
+    "name": "kite",
+    "code": "U+1FA81"
+  },
+  {
+    "char": "🔫",
+    "name": "water pistol",
+    "code": "U+1F52B"
+  },
+  {
+    "char": "🎱",
+    "name": "pool 8 ball",
+    "code": "U+1F3B1"
+  },
+  {
+    "char": "🔮",
+    "name": "crystal ball",
+    "code": "U+1F52E"
+  },
+  {
+    "char": "🪄",
+    "name": "magic wand",
+    "code": "U+1FA84"
+  },
+  {
+    "char": "🎮",
+    "name": "video game",
+    "code": "U+1F3AE"
+  },
+  {
+    "char": "🕹",
+    "name": "joystick",
+    "code": "U+1F579"
+  },
+  {
+    "char": "🎰",
+    "name": "slot machine",
+    "code": "U+1F3B0"
+  },
+  {
+    "char": "🎲",
+    "name": "game die",
+    "code": "U+1F3B2"
+  },
+  {
+    "char": "🧩",
+    "name": "puzzle piece",
+    "code": "U+1F9E9"
+  },
+  {
+    "char": "🧸",
+    "name": "teddy bear",
+    "code": "U+1F9F8"
+  },
+  {
+    "char": "🪅",
+    "name": "piñata",
+    "code": "U+1FA85"
+  },
+  {
+    "char": "🪩",
+    "name": "mirror ball",
+    "code": "U+1FAA9"
+  },
+  {
+    "char": "🪆",
+    "name": "nesting dolls",
+    "code": "U+1FA86"
+  },
+  {
+    "char": "♠",
+    "name": "spade suit",
+    "code": "U+2660"
+  },
+  {
+    "char": "♥",
+    "name": "heart suit",
+    "code": "U+2665"
+  },
+  {
+    "char": "♦",
+    "name": "diamond suit",
+    "code": "U+2666"
+  },
+  {
+    "char": "♣",
+    "name": "club suit",
+    "code": "U+2663"
+  },
+  {
+    "char": "♟",
+    "name": "chess pawn",
+    "code": "U+265F"
+  },
+  {
+    "char": "🃏",
+    "name": "joker",
+    "code": "U+1F0CF"
+  },
+  {
+    "char": "🀄",
+    "name": "mahjong red dragon",
+    "code": "U+1F004"
+  },
+  {
+    "char": "🎴",
+    "name": "flower playing cards",
+    "code": "U+1F3B4"
+  },
+  {
+    "char": "🎭",
+    "name": "performing arts",
+    "code": "U+1F3AD"
+  },
+  {
+    "char": "🖼",
+    "name": "framed picture",
+    "code": "U+1F5BC"
+  },
+  {
+    "char": "🎨",
+    "name": "artist palette",
+    "code": "U+1F3A8"
+  },
+  {
+    "char": "🧵",
+    "name": "thread",
+    "code": "U+1F9F5"
+  },
+  {
+    "char": "🪡",
+    "name": "sewing needle",
+    "code": "U+1FAA1"
+  },
+  {
+    "char": "🧶",
+    "name": "yarn",
+    "code": "U+1F9F6"
+  },
+  {
+    "char": "🪢",
+    "name": "knot",
+    "code": "U+1FAA2"
+  }
+]

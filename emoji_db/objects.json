@@ -1,0 +1,1332 @@
+[
+  {
+    "char": "👓",
+    "name": "glasses",
+    "code": "U+1F453"
+  },
+  {
+    "char": "🕶",
+    "name": "sunglasses",
+    "code": "U+1F576"
+  },
+  {
+    "char": "🥽",
+    "name": "goggles",
+    "code": "U+1F97D"
+  },
+  {
+    "char": "🥼",
+    "name": "lab coat",
+    "code": "U+1F97C"
+  },
+  {
+    "char": "🦺",
+    "name": "safety vest",
+    "code": "U+1F9BA"
+  },
+  {
+    "char": "👔",
+    "name": "necktie",
+    "code": "U+1F454"
+  },
+  {
+    "char": "👕",
+    "name": "t-shirt",
+    "code": "U+1F455"
+  },
+  {
+    "char": "👖",
+    "name": "jeans",
+    "code": "U+1F456"
+  },
+  {
+    "char": "🧣",
+    "name": "scarf",
+    "code": "U+1F9E3"
+  },
+  {
+    "char": "🧤",
+    "name": "gloves",
+    "code": "U+1F9E4"
+  },
+  {
+    "char": "🧥",
+    "name": "coat",
+    "code": "U+1F9E5"
+  },
+  {
+    "char": "🧦",
+    "name": "socks",
+    "code": "U+1F9E6"
+  },
+  {
+    "char": "👗",
+    "name": "dress",
+    "code": "U+1F457"
+  },
+  {
+    "char": "👘",
+    "name": "kimono",
+    "code": "U+1F458"
+  },
+  {
+    "char": "🥻",
+    "name": "sari",
+    "code": "U+1F97B"
+  },
+  {
+    "char": "🩱",
+    "name": "one-piece swimsuit",
+    "code": "U+1FA71"
+  },
+  {
+    "char": "🩲",
+    "name": "briefs",
+    "code": "U+1FA72"
+  },
+  {
+    "char": "🩳",
+    "name": "shorts",
+    "code": "U+1FA73"
+  },
+  {
+    "char": "👙",
+    "name": "bikini",
+    "code": "U+1F459"
+  },
+  {
+    "char": "👚",
+    "name": "woman’s clothes",
+    "code": "U+1F45A"
+  },
+  {
+    "char": "🪭",
+    "name": "folding hand fan",
+    "code": "U+1FAAD"
+  },
+  {
+    "char": "👛",
+    "name": "purse",
+    "code": "U+1F45B"
+  },
+  {
+    "char": "👜",
+    "name": "handbag",
+    "code": "U+1F45C"
+  },
+  {
+    "char": "👝",
+    "name": "clutch bag",
+    "code": "U+1F45D"
+  },
+  {
+    "char": "🛍",
+    "name": "shopping bags",
+    "code": "U+1F6CD"
+  },
+  {
+    "char": "🎒",
+    "name": "backpack",
+    "code": "U+1F392"
+  },
+  {
+    "char": "🩴",
+    "name": "thong sandal",
+    "code": "U+1FA74"
+  },
+  {
+    "char": "👞",
+    "name": "man’s shoe",
+    "code": "U+1F45E"
+  },
+  {
+    "char": "👟",
+    "name": "running shoe",
+    "code": "U+1F45F"
+  },
+  {
+    "char": "🥾",
+    "name": "hiking boot",
+    "code": "U+1F97E"
+  },
+  {
+    "char": "🥿",
+    "name": "flat shoe",
+    "code": "U+1F97F"
+  },
+  {
+    "char": "👠",
+    "name": "high-heeled shoe",
+    "code": "U+1F460"
+  },
+  {
+    "char": "👡",
+    "name": "woman’s sandal",
+    "code": "U+1F461"
+  },
+  {
+    "char": "🩰",
+    "name": "ballet shoes",
+    "code": "U+1FA70"
+  },
+  {
+    "char": "👢",
+    "name": "woman’s boot",
+    "code": "U+1F462"
+  },
+  {
+    "char": "🪮",
+    "name": "hair pick",
+    "code": "U+1FAAE"
+  },
+  {
+    "char": "👑",
+    "name": "crown",
+    "code": "U+1F451"
+  },
+  {
+    "char": "👒",
+    "name": "woman’s hat",
+    "code": "U+1F452"
+  },
+  {
+    "char": "🎩",
+    "name": "top hat",
+    "code": "U+1F3A9"
+  },
+  {
+    "char": "🎓",
+    "name": "graduation cap",
+    "code": "U+1F393"
+  },
+  {
+    "char": "🧢",
+    "name": "billed cap",
+    "code": "U+1F9E2"
+  },
+  {
+    "char": "🪖",
+    "name": "military helmet",
+    "code": "U+1FA96"
+  },
+  {
+    "char": "⛑",
+    "name": "rescue worker’s helmet",
+    "code": "U+26D1"
+  },
+  {
+    "char": "📿",
+    "name": "prayer beads",
+    "code": "U+1F4FF"
+  },
+  {
+    "char": "💄",
+    "name": "lipstick",
+    "code": "U+1F484"
+  },
+  {
+    "char": "💍",
+    "name": "ring",
+    "code": "U+1F48D"
+  },
+  {
+    "char": "💎",
+    "name": "gem stone",
+    "code": "U+1F48E"
+  },
+  {
+    "char": "🔇",
+    "name": "muted speaker",
+    "code": "U+1F507"
+  },
+  {
+    "char": "🔈",
+    "name": "speaker low volume",
+    "code": "U+1F508"
+  },
+  {
+    "char": "🔉",
+    "name": "speaker medium volume",
+    "code": "U+1F509"
+  },
+  {
+    "char": "🔊",
+    "name": "speaker high volume",
+    "code": "U+1F50A"
+  },
+  {
+    "char": "📢",
+    "name": "loudspeaker",
+    "code": "U+1F4E2"
+  },
+  {
+    "char": "📣",
+    "name": "megaphone",
+    "code": "U+1F4E3"
+  },
+  {
+    "char": "📯",
+    "name": "postal horn",
+    "code": "U+1F4EF"
+  },
+  {
+    "char": "🔔",
+    "name": "bell",
+    "code": "U+1F514"
+  },
+  {
+    "char": "🔕",
+    "name": "bell with slash",
+    "code": "U+1F515"
+  },
+  {
+    "char": "🎼",
+    "name": "musical score",
+    "code": "U+1F3BC"
+  },
+  {
+    "char": "🎵",
+    "name": "musical note",
+    "code": "U+1F3B5"
+  },
+  {
+    "char": "🎶",
+    "name": "musical notes",
+    "code": "U+1F3B6"
+  },
+  {
+    "char": "🎙",
+    "name": "studio microphone",
+    "code": "U+1F399"
+  },
+  {
+    "char": "🎚",
+    "name": "level slider",
+    "code": "U+1F39A"
+  },
+  {
+    "char": "🎛",
+    "name": "control knobs",
+    "code": "U+1F39B"
+  },
+  {
+    "char": "🎤",
+    "name": "microphone",
+    "code": "U+1F3A4"
+  },
+  {
+    "char": "🎧",
+    "name": "headphone",
+    "code": "U+1F3A7"
+  },
+  {
+    "char": "📻",
+    "name": "radio",
+    "code": "U+1F4FB"
+  },
+  {
+    "char": "🎷",
+    "name": "saxophone",
+    "code": "U+1F3B7"
+  },
+  {
+    "char": "🎺",
+    "name": "trumpet",
+    "code": "U+1F3BA"
+  },
+  {
+    "char": "🪊",
+    "name": "⊛ trombone",
+    "code": "U+1FA8A"
+  },
+  {
+    "char": "🪗",
+    "name": "accordion",
+    "code": "U+1FA97"
+  },
+  {
+    "char": "🎸",
+    "name": "guitar",
+    "code": "U+1F3B8"
+  },
+  {
+    "char": "🎹",
+    "name": "musical keyboard",
+    "code": "U+1F3B9"
+  },
+  {
+    "char": "🎻",
+    "name": "violin",
+    "code": "U+1F3BB"
+  },
+  {
+    "char": "🪕",
+    "name": "banjo",
+    "code": "U+1FA95"
+  },
+  {
+    "char": "🥁",
+    "name": "drum",
+    "code": "U+1F941"
+  },
+  {
+    "char": "🪘",
+    "name": "long drum",
+    "code": "U+1FA98"
+  },
+  {
+    "char": "🪇",
+    "name": "maracas",
+    "code": "U+1FA87"
+  },
+  {
+    "char": "🪈",
+    "name": "flute",
+    "code": "U+1FA88"
+  },
+  {
+    "char": "🪉",
+    "name": "harp",
+    "code": "U+1FA89"
+  },
+  {
+    "char": "📱",
+    "name": "mobile phone",
+    "code": "U+1F4F1"
+  },
+  {
+    "char": "📲",
+    "name": "mobile phone with arrow",
+    "code": "U+1F4F2"
+  },
+  {
+    "char": "☎",
+    "name": "telephone",
+    "code": "U+260E"
+  },
+  {
+    "char": "📞",
+    "name": "telephone receiver",
+    "code": "U+1F4DE"
+  },
+  {
+    "char": "📟",
+    "name": "pager",
+    "code": "U+1F4DF"
+  },
+  {
+    "char": "📠",
+    "name": "fax machine",
+    "code": "U+1F4E0"
+  },
+  {
+    "char": "🔋",
+    "name": "battery",
+    "code": "U+1F50B"
+  },
+  {
+    "char": "🪫",
+    "name": "low battery",
+    "code": "U+1FAAB"
+  },
+  {
+    "char": "🔌",
+    "name": "electric plug",
+    "code": "U+1F50C"
+  },
+  {
+    "char": "💻",
+    "name": "laptop",
+    "code": "U+1F4BB"
+  },
+  {
+    "char": "🖥",
+    "name": "desktop computer",
+    "code": "U+1F5A5"
+  },
+  {
+    "char": "🖨",
+    "name": "printer",
+    "code": "U+1F5A8"
+  },
+  {
+    "char": "⌨",
+    "name": "keyboard",
+    "code": "U+2328"
+  },
+  {
+    "char": "🖱",
+    "name": "computer mouse",
+    "code": "U+1F5B1"
+  },
+  {
+    "char": "🖲",
+    "name": "trackball",
+    "code": "U+1F5B2"
+  },
+  {
+    "char": "💽",
+    "name": "computer disk",
+    "code": "U+1F4BD"
+  },
+  {
+    "char": "💾",
+    "name": "floppy disk",
+    "code": "U+1F4BE"
+  },
+  {
+    "char": "💿",
+    "name": "optical disk",
+    "code": "U+1F4BF"
+  },
+  {
+    "char": "📀",
+    "name": "dvd",
+    "code": "U+1F4C0"
+  },
+  {
+    "char": "🧮",
+    "name": "abacus",
+    "code": "U+1F9EE"
+  },
+  {
+    "char": "🎥",
+    "name": "movie camera",
+    "code": "U+1F3A5"
+  },
+  {
+    "char": "🎞",
+    "name": "film frames",
+    "code": "U+1F39E"
+  },
+  {
+    "char": "📽",
+    "name": "film projector",
+    "code": "U+1F4FD"
+  },
+  {
+    "char": "🎬",
+    "name": "clapper board",
+    "code": "U+1F3AC"
+  },
+  {
+    "char": "📺",
+    "name": "television",
+    "code": "U+1F4FA"
+  },
+  {
+    "char": "📷",
+    "name": "camera",
+    "code": "U+1F4F7"
+  },
+  {
+    "char": "📸",
+    "name": "camera with flash",
+    "code": "U+1F4F8"
+  },
+  {
+    "char": "📹",
+    "name": "video camera",
+    "code": "U+1F4F9"
+  },
+  {
+    "char": "📼",
+    "name": "videocassette",
+    "code": "U+1F4FC"
+  },
+  {
+    "char": "🔍",
+    "name": "magnifying glass tilted left",
+    "code": "U+1F50D"
+  },
+  {
+    "char": "🔎",
+    "name": "magnifying glass tilted right",
+    "code": "U+1F50E"
+  },
+  {
+    "char": "🕯",
+    "name": "candle",
+    "code": "U+1F56F"
+  },
+  {
+    "char": "💡",
+    "name": "light bulb",
+    "code": "U+1F4A1"
+  },
+  {
+    "char": "🔦",
+    "name": "flashlight",
+    "code": "U+1F526"
+  },
+  {
+    "char": "🏮",
+    "name": "red paper lantern",
+    "code": "U+1F3EE"
+  },
+  {
+    "char": "🪔",
+    "name": "diya lamp",
+    "code": "U+1FA94"
+  },
+  {
+    "char": "📔",
+    "name": "notebook with decorative cover",
+    "code": "U+1F4D4"
+  },
+  {
+    "char": "📕",
+    "name": "closed book",
+    "code": "U+1F4D5"
+  },
+  {
+    "char": "📖",
+    "name": "open book",
+    "code": "U+1F4D6"
+  },
+  {
+    "char": "📗",
+    "name": "green book",
+    "code": "U+1F4D7"
+  },
+  {
+    "char": "📘",
+    "name": "blue book",
+    "code": "U+1F4D8"
+  },
+  {
+    "char": "📙",
+    "name": "orange book",
+    "code": "U+1F4D9"
+  },
+  {
+    "char": "📚",
+    "name": "books",
+    "code": "U+1F4DA"
+  },
+  {
+    "char": "📓",
+    "name": "notebook",
+    "code": "U+1F4D3"
+  },
+  {
+    "char": "📒",
+    "name": "ledger",
+    "code": "U+1F4D2"
+  },
+  {
+    "char": "📃",
+    "name": "page with curl",
+    "code": "U+1F4C3"
+  },
+  {
+    "char": "📜",
+    "name": "scroll",
+    "code": "U+1F4DC"
+  },
+  {
+    "char": "📄",
+    "name": "page facing up",
+    "code": "U+1F4C4"
+  },
+  {
+    "char": "📰",
+    "name": "newspaper",
+    "code": "U+1F4F0"
+  },
+  {
+    "char": "🗞",
+    "name": "rolled-up newspaper",
+    "code": "U+1F5DE"
+  },
+  {
+    "char": "📑",
+    "name": "bookmark tabs",
+    "code": "U+1F4D1"
+  },
+  {
+    "char": "🔖",
+    "name": "bookmark",
+    "code": "U+1F516"
+  },
+  {
+    "char": "🏷",
+    "name": "label",
+    "code": "U+1F3F7"
+  },
+  {
+    "char": "🪙",
+    "name": "coin",
+    "code": "U+1FA99"
+  },
+  {
+    "char": "💰",
+    "name": "money bag",
+    "code": "U+1F4B0"
+  },
+  {
+    "char": "🪎",
+    "name": "⊛ treasure chest",
+    "code": "U+1FA8E"
+  },
+  {
+    "char": "💴",
+    "name": "yen banknote",
+    "code": "U+1F4B4"
+  },
+  {
+    "char": "💵",
+    "name": "dollar banknote",
+    "code": "U+1F4B5"
+  },
+  {
+    "char": "💶",
+    "name": "euro banknote",
+    "code": "U+1F4B6"
+  },
+  {
+    "char": "💷",
+    "name": "pound banknote",
+    "code": "U+1F4B7"
+  },
+  {
+    "char": "💸",
+    "name": "money with wings",
+    "code": "U+1F4B8"
+  },
+  {
+    "char": "💳",
+    "name": "credit card",
+    "code": "U+1F4B3"
+  },
+  {
+    "char": "🧾",
+    "name": "receipt",
+    "code": "U+1F9FE"
+  },
+  {
+    "char": "💹",
+    "name": "chart increasing with yen",
+    "code": "U+1F4B9"
+  },
+  {
+    "char": "✉",
+    "name": "envelope",
+    "code": "U+2709"
+  },
+  {
+    "char": "📧",
+    "name": "e-mail",
+    "code": "U+1F4E7"
+  },
+  {
+    "char": "📨",
+    "name": "incoming envelope",
+    "code": "U+1F4E8"
+  },
+  {
+    "char": "📩",
+    "name": "envelope with arrow",
+    "code": "U+1F4E9"
+  },
+  {
+    "char": "📤",
+    "name": "outbox tray",
+    "code": "U+1F4E4"
+  },
+  {
+    "char": "📥",
+    "name": "inbox tray",
+    "code": "U+1F4E5"
+  },
+  {
+    "char": "📦",
+    "name": "package",
+    "code": "U+1F4E6"
+  },
+  {
+    "char": "📫",
+    "name": "closed mailbox with raised flag",
+    "code": "U+1F4EB"
+  },
+  {
+    "char": "📪",
+    "name": "closed mailbox with lowered flag",
+    "code": "U+1F4EA"
+  },
+  {
+    "char": "📬",
+    "name": "open mailbox with raised flag",
+    "code": "U+1F4EC"
+  },
+  {
+    "char": "📭",
+    "name": "open mailbox with lowered flag",
+    "code": "U+1F4ED"
+  },
+  {
+    "char": "📮",
+    "name": "postbox",
+    "code": "U+1F4EE"
+  },
+  {
+    "char": "🗳",
+    "name": "ballot box with ballot",
+    "code": "U+1F5F3"
+  },
+  {
+    "char": "✏",
+    "name": "pencil",
+    "code": "U+270F"
+  },
+  {
+    "char": "✒",
+    "name": "black nib",
+    "code": "U+2712"
+  },
+  {
+    "char": "🖋",
+    "name": "fountain pen",
+    "code": "U+1F58B"
+  },
+  {
+    "char": "🖊",
+    "name": "pen",
+    "code": "U+1F58A"
+  },
+  {
+    "char": "🖌",
+    "name": "paintbrush",
+    "code": "U+1F58C"
+  },
+  {
+    "char": "🖍",
+    "name": "crayon",
+    "code": "U+1F58D"
+  },
+  {
+    "char": "📝",
+    "name": "memo",
+    "code": "U+1F4DD"
+  },
+  {
+    "char": "💼",
+    "name": "briefcase",
+    "code": "U+1F4BC"
+  },
+  {
+    "char": "📁",
+    "name": "file folder",
+    "code": "U+1F4C1"
+  },
+  {
+    "char": "📂",
+    "name": "open file folder",
+    "code": "U+1F4C2"
+  },
+  {
+    "char": "🗂",
+    "name": "card index dividers",
+    "code": "U+1F5C2"
+  },
+  {
+    "char": "📅",
+    "name": "calendar",
+    "code": "U+1F4C5"
+  },
+  {
+    "char": "📆",
+    "name": "tear-off calendar",
+    "code": "U+1F4C6"
+  },
+  {
+    "char": "🗒",
+    "name": "spiral notepad",
+    "code": "U+1F5D2"
+  },
+  {
+    "char": "🗓",
+    "name": "spiral calendar",
+    "code": "U+1F5D3"
+  },
+  {
+    "char": "📇",
+    "name": "card index",
+    "code": "U+1F4C7"
+  },
+  {
+    "char": "📈",
+    "name": "chart increasing",
+    "code": "U+1F4C8"
+  },
+  {
+    "char": "📉",
+    "name": "chart decreasing",
+    "code": "U+1F4C9"
+  },
+  {
+    "char": "📊",
+    "name": "bar chart",
+    "code": "U+1F4CA"
+  },
+  {
+    "char": "📋",
+    "name": "clipboard",
+    "code": "U+1F4CB"
+  },
+  {
+    "char": "📌",
+    "name": "pushpin",
+    "code": "U+1F4CC"
+  },
+  {
+    "char": "📍",
+    "name": "round pushpin",
+    "code": "U+1F4CD"
+  },
+  {
+    "char": "📎",
+    "name": "paperclip",
+    "code": "U+1F4CE"
+  },
+  {
+    "char": "🖇",
+    "name": "linked paperclips",
+    "code": "U+1F587"
+  },
+  {
+    "char": "📏",
+    "name": "straight ruler",
+    "code": "U+1F4CF"
+  },
+  {
+    "char": "📐",
+    "name": "triangular ruler",
+    "code": "U+1F4D0"
+  },
+  {
+    "char": "✂",
+    "name": "scissors",
+    "code": "U+2702"
+  },
+  {
+    "char": "🗃",
+    "name": "card file box",
+    "code": "U+1F5C3"
+  },
+  {
+    "char": "🗄",
+    "name": "file cabinet",
+    "code": "U+1F5C4"
+  },
+  {
+    "char": "🗑",
+    "name": "wastebasket",
+    "code": "U+1F5D1"
+  },
+  {
+    "char": "🔒",
+    "name": "locked",
+    "code": "U+1F512"
+  },
+  {
+    "char": "🔓",
+    "name": "unlocked",
+    "code": "U+1F513"
+  },
+  {
+    "char": "🔏",
+    "name": "locked with pen",
+    "code": "U+1F50F"
+  },
+  {
+    "char": "🔐",
+    "name": "locked with key",
+    "code": "U+1F510"
+  },
+  {
+    "char": "🔑",
+    "name": "key",
+    "code": "U+1F511"
+  },
+  {
+    "char": "🗝",
+    "name": "old key",
+    "code": "U+1F5DD"
+  },
+  {
+    "char": "🔨",
+    "name": "hammer",
+    "code": "U+1F528"
+  },
+  {
+    "char": "🪓",
+    "name": "axe",
+    "code": "U+1FA93"
+  },
+  {
+    "char": "⛏",
+    "name": "pick",
+    "code": "U+26CF"
+  },
+  {
+    "char": "⚒",
+    "name": "hammer and pick",
+    "code": "U+2692"
+  },
+  {
+    "char": "🛠",
+    "name": "hammer and wrench",
+    "code": "U+1F6E0"
+  },
+  {
+    "char": "🗡",
+    "name": "dagger",
+    "code": "U+1F5E1"
+  },
+  {
+    "char": "⚔",
+    "name": "crossed swords",
+    "code": "U+2694"
+  },
+  {
+    "char": "💣",
+    "name": "bomb",
+    "code": "U+1F4A3"
+  },
+  {
+    "char": "🪃",
+    "name": "boomerang",
+    "code": "U+1FA83"
+  },
+  {
+    "char": "🏹",
+    "name": "bow and arrow",
+    "code": "U+1F3F9"
+  },
+  {
+    "char": "🛡",
+    "name": "shield",
+    "code": "U+1F6E1"
+  },
+  {
+    "char": "🪚",
+    "name": "carpentry saw",
+    "code": "U+1FA9A"
+  },
+  {
+    "char": "🔧",
+    "name": "wrench",
+    "code": "U+1F527"
+  },
+  {
+    "char": "🪛",
+    "name": "screwdriver",
+    "code": "U+1FA9B"
+  },
+  {
+    "char": "🔩",
+    "name": "nut and bolt",
+    "code": "U+1F529"
+  },
+  {
+    "char": "⚙",
+    "name": "gear",
+    "code": "U+2699"
+  },
+  {
+    "char": "🗜",
+    "name": "clamp",
+    "code": "U+1F5DC"
+  },
+  {
+    "char": "⚖",
+    "name": "balance scale",
+    "code": "U+2696"
+  },
+  {
+    "char": "🦯",
+    "name": "white cane",
+    "code": "U+1F9AF"
+  },
+  {
+    "char": "🔗",
+    "name": "link",
+    "code": "U+1F517"
+  },
+  {
+    "char": "⛓️‍💥",
+    "name": "broken chain",
+    "code": "U+26D3 U+FE0F U+200D U+1F4A5"
+  },
+  {
+    "char": "⛓",
+    "name": "chains",
+    "code": "U+26D3"
+  },
+  {
+    "char": "🪝",
+    "name": "hook",
+    "code": "U+1FA9D"
+  },
+  {
+    "char": "🧰",
+    "name": "toolbox",
+    "code": "U+1F9F0"
+  },
+  {
+    "char": "🧲",
+    "name": "magnet",
+    "code": "U+1F9F2"
+  },
+  {
+    "char": "🪜",
+    "name": "ladder",
+    "code": "U+1FA9C"
+  },
+  {
+    "char": "🪏",
+    "name": "shovel",
+    "code": "U+1FA8F"
+  },
+  {
+    "char": "⚗",
+    "name": "alembic",
+    "code": "U+2697"
+  },
+  {
+    "char": "🧪",
+    "name": "test tube",
+    "code": "U+1F9EA"
+  },
+  {
+    "char": "🧫",
+    "name": "petri dish",
+    "code": "U+1F9EB"
+  },
+  {
+    "char": "🧬",
+    "name": "dna",
+    "code": "U+1F9EC"
+  },
+  {
+    "char": "🔬",
+    "name": "microscope",
+    "code": "U+1F52C"
+  },
+  {
+    "char": "🔭",
+    "name": "telescope",
+    "code": "U+1F52D"
+  },
+  {
+    "char": "📡",
+    "name": "satellite antenna",
+    "code": "U+1F4E1"
+  },
+  {
+    "char": "💉",
+    "name": "syringe",
+    "code": "U+1F489"
+  },
+  {
+    "char": "🩸",
+    "name": "drop of blood",
+    "code": "U+1FA78"
+  },
+  {
+    "char": "💊",
+    "name": "pill",
+    "code": "U+1F48A"
+  },
+  {
+    "char": "🩹",
+    "name": "adhesive bandage",
+    "code": "U+1FA79"
+  },
+  {
+    "char": "🩼",
+    "name": "crutch",
+    "code": "U+1FA7C"
+  },
+  {
+    "char": "🩺",
+    "name": "stethoscope",
+    "code": "U+1FA7A"
+  },
+  {
+    "char": "🩻",
+    "name": "x-ray",
+    "code": "U+1FA7B"
+  },
+  {
+    "char": "🚪",
+    "name": "door",
+    "code": "U+1F6AA"
+  },
+  {
+    "char": "🛗",
+    "name": "elevator",
+    "code": "U+1F6D7"
+  },
+  {
+    "char": "🪞",
+    "name": "mirror",
+    "code": "U+1FA9E"
+  },
+  {
+    "char": "🪟",
+    "name": "window",
+    "code": "U+1FA9F"
+  },
+  {
+    "char": "🛏",
+    "name": "bed",
+    "code": "U+1F6CF"
+  },
+  {
+    "char": "🛋",
+    "name": "couch and lamp",
+    "code": "U+1F6CB"
+  },
+  {
+    "char": "🪑",
+    "name": "chair",
+    "code": "U+1FA91"
+  },
+  {
+    "char": "🚽",
+    "name": "toilet",
+    "code": "U+1F6BD"
+  },
+  {
+    "char": "🪠",
+    "name": "plunger",
+    "code": "U+1FAA0"
+  },
+  {
+    "char": "🚿",
+    "name": "shower",
+    "code": "U+1F6BF"
+  },
+  {
+    "char": "🛁",
+    "name": "bathtub",
+    "code": "U+1F6C1"
+  },
+  {
+    "char": "🪤",
+    "name": "mouse trap",
+    "code": "U+1FAA4"
+  },
+  {
+    "char": "🪒",
+    "name": "razor",
+    "code": "U+1FA92"
+  },
+  {
+    "char": "🧴",
+    "name": "lotion bottle",
+    "code": "U+1F9F4"
+  },
+  {
+    "char": "🧷",
+    "name": "safety pin",
+    "code": "U+1F9F7"
+  },
+  {
+    "char": "🧹",
+    "name": "broom",
+    "code": "U+1F9F9"
+  },
+  {
+    "char": "🧺",
+    "name": "basket",
+    "code": "U+1F9FA"
+  },
+  {
+    "char": "🧻",
+    "name": "roll of paper",
+    "code": "U+1F9FB"
+  },
+  {
+    "char": "🪣",
+    "name": "bucket",
+    "code": "U+1FAA3"
+  },
+  {
+    "char": "🧼",
+    "name": "soap",
+    "code": "U+1F9FC"
+  },
+  {
+    "char": "🫧",
+    "name": "bubbles",
+    "code": "U+1FAE7"
+  },
+  {
+    "char": "🪥",
+    "name": "toothbrush",
+    "code": "U+1FAA5"
+  },
+  {
+    "char": "🧽",
+    "name": "sponge",
+    "code": "U+1F9FD"
+  },
+  {
+    "char": "🧯",
+    "name": "fire extinguisher",
+    "code": "U+1F9EF"
+  },
+  {
+    "char": "🛒",
+    "name": "shopping cart",
+    "code": "U+1F6D2"
+  },
+  {
+    "char": "🚬",
+    "name": "cigarette",
+    "code": "U+1F6AC"
+  },
+  {
+    "char": "⚰",
+    "name": "coffin",
+    "code": "U+26B0"
+  },
+  {
+    "char": "🪦",
+    "name": "headstone",
+    "code": "U+1FAA6"
+  },
+  {
+    "char": "⚱",
+    "name": "funeral urn",
+    "code": "U+26B1"
+  },
+  {
+    "char": "🧿",
+    "name": "nazar amulet",
+    "code": "U+1F9FF"
+  },
+  {
+    "char": "🪬",
+    "name": "hamsa",
+    "code": "U+1FAAC"
+  },
+  {
+    "char": "🗿",
+    "name": "moai",
+    "code": "U+1F5FF"
+  },
+  {
+    "char": "🪧",
+    "name": "placard",
+    "code": "U+1FAA7"
+  },
+  {
+    "char": "🪪",
+    "name": "identification card",
+    "code": "U+1FAAA"
+  }
+]
