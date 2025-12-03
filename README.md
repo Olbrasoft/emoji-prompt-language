@@ -30,6 +30,7 @@ Následující tabulka ukazuje úsporu velikosti souboru při použití hybridn�
 | :--- | :--- | :--- | :--- |
 | `agent_codegen` | 776 bajtů | 748 bajtů | **~3.6%** |
 | `agent_system_prompt`| 770 bajtů | 750 bajtů | **~2.6%** |
+| `global_instructions` | 18466 bajtů | 4631 bajtů | **~75%** |
 
 *Poznámka: Ačkoliv se úspora u těchto krátkých příkladů může zdát malá, v reálných, komplexních systémových promptech s desítkami či stovkami instrukcí bude procentuální úspora mnohem výraznější a může uvolnit cenné místo v kontextovém okně.*
 
