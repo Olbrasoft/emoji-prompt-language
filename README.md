@@ -1,5 +1,6 @@
 je to blbost, nevěřte tomu. a hlavně šetří tokeny angličtina a ne emoji ikony. ale je to hezký, ty obrázky. 
 
+<img width="978" height="1036" alt="image" src="https://github.com/user-attachments/assets/a23fa29d-f067-46cc-8dac-79d7ef793c3b" />
 
 
 Emoji Prompt Language (EPL)
