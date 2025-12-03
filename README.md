@@ -1,3 +1,7 @@
+je to blbost, nevěřte tomu. a hlavně šetří tokeny angličtina a ne emoji ikony. ale je to hezký, ty obrázky. 
+
+
+
 Emoji Prompt Language (EPL)
 
 Tento repozitář obsahuje Proof of Concept (PoC) pro **Basic Emoji Language (EPL)**, jednoduchý jazyk založený na emoji pro efektivní komunikaci s AI.
